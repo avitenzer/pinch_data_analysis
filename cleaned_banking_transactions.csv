@@ -1,0 +1,576 @@
+user_id,transaction_id,transaction_date,settlement_date,processed_date,amount,amount_ccy,currency,transaction_type,merchant_name,merchant_category,description,location,channel,account_number,data_quality_flags,amount_original
+1,994e6e84-b1d6-4a8a-8940-63613a563f11,,2024-10-12,2024-10-09,-1027.95,USD,CHF,Online,Amazon,Clothing,Amazon purchase,"London, UK",POS,****9543,clean,"$-1,027.95"
+1,cR9833605,2023-09-22,2023-09-22,,3994.12,CHF,GBP,Online,Apple,Travel,Online at Apple,"Berlin, Germany",Online,****4547,clean,3994.12 CHF
+1,,2025-06-17,2025-06-20,,4385.12,EUR,EUR,ATM,McDonald's,Technology,Uber trip to New York,"New York, USA",POS,****2201,clean,"4.385,12"
+1,lc1095584,,2024-01-28,,-744.56,EUR,EUR,Credit,H&M,Shopping,Credit at H&M,"New York, USA",Online,****1719,clean,"-744,56"
+1,OH5693189,,2024-12-22,2024-12-19,1878.72,CHF,EUR,POS,,Travel,POS 76518,"Zurich, Switzerland",POS,****7784,missing_merchant_name,1878.72 CHF
+1,,,2024-04-13,,1948.6,CHF,EUR,POS,Amazon,Technology,Online 64293,,Online,****7371,clean,1948.60 CHF
+1,JH3332656,,2025-04-06,,4416.69,EUR,EUR,Debit,Netflix,Shopping,Netflix purchase,"New York, USA",ATM,****5709,clean,"4.416,69"
+1,729250fc-19d6-4fcd-82ee-6f47640dd377,2023-07-04,2023-07-07,,-527.47,EUR,EUR,POS,Uber,Subscription,POS at Uber,"Paris, France",POS,****7988,clean,"-527,47"
+1,Yl7736751,,2024-05-18,,1596.77,EUR,CHF,Transfer,Shell,Transport,Shell purchase,"Paris, France",POS,****7211,clean,"€1,596.77"
+1,,2023-09-22,2023-09-25,,3631.24,EUR,EUR,Debit,Shell,,ATM 10620,"New York, USA",ATM,****8546,clean,"€3,631.24"
+1,1a729054-5b98-48c0-927f-cdeb04fe092a,,2024-06-18,2024-06-17,46.23,CHF,CHF,Salary,Starbucks,Subscription,Salary at Starbucks,"Zurich, Switzerland",ATM,****4984,clean,"46,23"
+1,ef90dbd0-8b43-4532-92a6-7c2f681cc75b,2025-01-19,2025-01-22,,4957.41,EUR,EUR,Credit,Shell,Technology,Credit at Shell,"Berlin, Germany",POS,****1059,clean,"4.957,41"
+2,,2024-08-26,2024-08-28,,2215.64,USD,USD,Online,Netflix,Fuel,Whose however summer lawyer.,"Zurich, Switzerland",ATM,****7159,clean,"2.215,64"
+2,WE6579691,2025-04-13,2025-04-16,,-413.16,USD,USD,ATM,H&M,Travel,Eat seem admit live.,"London, UK",ATM,****6663,clean,-413.16 USD
+2,,,2025-01-15,2025-01-14,3971.39,EUR,USD,ATM,Netflix,Dining,ATM 47284,,ATM,****1636,clean,"€3,971.39"
+2,,,2025-03-27,,-542.38,CHF,USD,Credit,Shell,Fuel,Uber trip to New York,"New York, USA",POS,****9497,clean,-542.38 CHF
+2,HB3892893,,2025-04-19,,3793.29,USD,CHF,ATM,McDonald's,Transport,Coach exist structure animal image fish.,"Paris, France",POS,****8940,clean,"3,793.29 USD"
+2,,,2024-01-20,,4837.94,GBP,GBP,Debit,H&M,,Online 69657,"New York, USA",Online,****3815,clean,"4.837,94"
+2,,,2024-01-09,2024-01-08,-1121.69,EUR,EUR,Credit,Apple,Shopping,Spring political professional nation sign plant.,"Berlin, Germany",ATM,****6242,clean,"€-1,121.69"
+2,,,2024-09-24,2024-09-23,270.16,USD,JPY,Debit,H&M,Fuel,Low south evidence building talk career.,"New York, USA",ATM,****8385,clean,$270.16
+2,,2025-02-13,2025-02-13,,1550.12,USD,EUR,Online,Lufthansa,Travel,Online at Lufthansa,,Online,****9167,clean,"$1,550.12"
+2,,,2024-10-15,,1191.51,USD,USD,Credit,Zara,Subscription,Uber trip to Zurich,"Zurich, Switzerland",POS,****6250,clean,"1,191.51 USD"
+2,,,2025-04-08,,3751.61,EUR,EUR,POS,Shell,,Online 74698,"Zurich, Switzerland",Online,****5263,clean,"3.751,61"
+2,aa266869-7a7e-46ba-84d9-4c2f8c29c520,,2024-04-21,,1028.58,USD,CHF,Transfer,McDonald's,,Uber trip to Berlin,,POS,****3718,clean,"1,028.58 USD"
+2,,,2023-09-22,,-1938.44,CHF,CHF,POS,Zara,Subscription,Uber trip to Berlin,"Berlin, Germany",Online,****7599,clean,-1938.44 CHF
+2,b566f3e0-7369-4f80-945a-cb24253360e2,2024-02-25,2024-02-26,,75.0,USD,USD,Transfer,Shell,Shopping,Uber trip to Berlin,"Berlin, Germany",ATM,****8064,clean,$75.00
+2,,,2024-04-03,,4423.28,EUR,EUR,Debit,Uber,Dining,Uber trip to New York,"New York, USA",Online,****9133,clean,"€4,423.28"
+2,,,2023-08-16,,-852.47,GBP,GBP,Transfer,Uber,Entertainment,Lot reason word around type.,"Zurich, Switzerland",ATM,****1967,clean,"-852,47"
+2,7a50c081-0815-44e3-9fc5-28c9ee312f84,2025-07-15,2025-07-15,,-1967.87,CHF,CHF,Bill Payment,Starbucks,Clothing,Huge seem affect section.,"Berlin, Germany",POS,****7461,clean,"-1.967,87"
+2,,,2025-06-06,,3890.75,EUR,EUR,Salary,McDonald's,Fuel,Forward explain message human relationship manage general.,,Online,****3867,clean,"€3,890.75"
+2,,2024-12-21,2024-12-24,,3081.75,USD,EUR,ATM,Zara,Dining,Online 20422,"Paris, France",Online,****8902,clean,"3,081.75 USD"
+2,82f57ccc-e4a4-4615-bdaa-91dcaa80fa17,2024-10-06,2024-10-07,,8.02,EUR,GBP,POS,Starbucks,,POS 96275,"Paris, France",POS,****7327,clean,€8.02
+2,74d5ad17-7941-41f8-ad8a-d9e9e799dabb,2024-10-26,2024-10-28,,-1933.51,CHF,USD,ATM,H&M,Shopping,Land table strategy fish action reality director left.,"London, UK",POS,****8580,clean,-1933.51 CHF
+2,,2024-04-30,2024-05-01,,3446.08,USD,CHF,Debit,Shell,Shopping,Remember statement my probably.,"New York, USA",Online,****5199,clean,"$3,446.08"
+2,,,2024-05-29,2024-05-29,2225.91,GBP,GBP,Online,Uber,Dining,Uber trip to Zurich,"Zurich, Switzerland",ATM,****6453,clean,"2.225,91"
+2,3153fa1e-5140-492a-ae5b-0523fa0e8232,,2024-12-06,,2600.96,USD,CHF,Transfer,H&M,,H&M purchase,"Zurich, Switzerland",ATM,****2488,clean,"2,600.96 USD"
+2,e2bbf808-d292-4d93-8b35-095b0877c2e4,,2024-04-19,,1971.43,USD,JPY,ATM,Zara,Subscription,ATM 59571,,ATM,****2543,clean,"1,971.43 USD"
+2,76d13d9d-3a85-4d27-97e0-d55070c0436f,2025-01-16,2025-01-18,,-289.46,EUR,CHF,Online,Netflix,Fuel,Online at Netflix,"Zurich, Switzerland",Online,****8462,clean,€-289.46
+2,84635288-ff03-4655-80c4-8d68902fe5c2,,2023-11-12,,3696.81,EUR,CHF,Debit,Shell,Subscription,Almost listen war tax the military common.,"Berlin, Germany",ATM,****7022,clean,"€3,696.81"
+2,,2024-05-23,2024-05-25,,-604.76,EUR,CHF,Transfer,Amazon,Travel,Transfer at Amazon,"Paris, France",ATM,****3013,clean,€-604.76
+2,5459cd54-2f10-4fe0-89d3-5acc0c55bc7e,,2023-09-13,,3694.36,USD,GBP,Transfer,Shell,,Low soon commercial parent cell.,"London, UK",ATM,****9243,clean,"3,694.36 USD"
+2,,2025-04-14,2025-04-17,,3221.66,CHF,USD,Credit,Starbucks,Clothing,Evening yard sit kitchen yes arrive happen.,"Paris, France",ATM,****9067,clean,3221.66 CHF
+2,b790572e-8994-4b84-8601-74ebd1ef179b,,2025-03-14,2025-03-14,2720.85,EUR,GBP,Online,Zara,Technology,Uber trip to Zurich,"Zurich, Switzerland",Online,****4437,clean,"€2,720.85"
+2,532ad05f-a147-4e13-ab19-7c9dfc6ebb2c,2024-05-02,2024-05-02,,-1069.98,USD,USD,POS,Starbucks,Subscription,POS 26444,"Paris, France",POS,****8290,clean,"$-1,069.98"
+2,ur1535801,2024-09-15,2024-09-18,,3107.12,USD,USD,Bill Payment,Starbucks,Subscription,Bill Payment at Starbucks,"Paris, France",ATM,****1188,clean,"$3,107.12"
+2,,,2024-01-28,,-1844.11,EUR,USD,POS,Lufthansa,Subscription,ATM 85220,"New York, USA",ATM,****6456,clean,"€-1,844.11"
+2,36da8793-037b-4345-9a53-0e2b2e1f2be7,,2025-07-19,,-58.82,USD,EUR,Debit,Apple,Transport,Uber trip to Zurich,,ATM,****2537,clean,-58.82 USD
+2,,2025-06-18,2025-06-19,,4043.93,USD,EUR,Transfer,Shell,Dining,Transfer at Shell,,ATM,****7319,clean,"4,043.93 USD"
+2,,,2024-03-29,2024-03-26,4268.28,GBP,GBP,ATM,Amazon,Travel,ATM at Amazon,,Online,****8344,clean,"4.268,28"
+2,,,2024-07-19,,3187.86,JPY,JPY,Salary,Shell,Dining,ATM 64007,"New York, USA",ATM,****2436,clean,"3.187,86"
+2,77ba9319-580e-4869-9279-251bcf10e5ea,2025-03-09,2025-03-12,,-1257.62,USD,JPY,Bill Payment,Zara,Entertainment,ZarX purchase,"Zurich, Switzerland",Online,****1262,clean,"-1,257.62 USD"
+2,f120008f-7b56-4a87-8ffb-87fbb43be594,2024-05-31,2024-05-31,,-5.02,CHF,EUR,Debit,Amazon,Subscription,Amazon purchase,"Paris, France",ATM,****9621,clean,-5.02 CHF
+2,6d8a1466-e46b-41eb-8502-d8683096f41b,2023-12-11,2023-12-14,,50.09,EUR,EUR,Transfer,Uber,Entertainment,Uber trip to Zurich,"Zurich, Switzerland",Online,****5512,clean,"50,09"
+2,mV8812284,2023-09-01,2023-09-01,,1302.91,USD,USD,Debit,Netflix,Travel,Uber trip to London,"London, UK",ATM,****3563,clean,"$1,302.91"
+2,,2024-05-31,2024-06-01,,4760.85,USD,USD,Credit,Amazon,Fuel,Credit at Amazon,"London, UK",POS,****7910,clean,"4,760.85 USD"
+2,Yh8703232,,2024-02-26,2024-02-26,1962.85,CHF,USD,POS,Lufthansa,Clothing,Lufthansa purchase,"Berlin, Germany",Online,****9089,clean,1962.85 CHF
+2,a9a0423d-7c78-405f-baab-85f52f406353,,2025-05-21,,-622.73,CHF,JPY,Debit,McDonald's,Subscription,Uber trip to Zurich,"Zurich, Switzerland",Online,****4693,clean,-622.73 CHF
+2,,,2023-08-22,,583.42,EUR,CHF,Bill Payment,H&M,Travel,POS 55714,"Paris, France",POS,****2117,clean,€583.42
+2,,2024-08-29,2024-08-31,,2391.77,EUR,CHF,ATM,Amazon,Subscription,Online 48976,"London, UK",Online,****1720,clean,"€2,391.77"
+2,,2025-06-02,2025-06-03,,2434.1,EUR,CHF,POS,McDonald's,Travel,McDonald's purchase,"Paris, France",POS,****5178,clean,"€2,434.10"
+2,,2025-07-01,2025-07-01,,-918.8,USD,USD,POS,Uber,Entertainment,Uber trip to Berlin,"Berlin, Germany",ATM,****1179,clean,"-918,80"
+2,,2025-02-23,2025-02-24,,-1042.3,EUR,USD,Debit,Shell,Subscription,Debit at Shell,"London, UK",ATM,****9123,clean,"€-1,042.30"
+2,sG2348966,2024-11-06,2024-11-07,,3703.19,JPY,JPY,Credit,Lufthansa,Travel,Shake goal continue pattern hospital rock early.,"Berlin, Germany",POS,****2235,clean,"3.703,19"
+2,yb5522571,,2025-01-14,,-456.1,USD,GBP,Online,Amazon,Travel,Online at Amazon,"Zurich, Switzerland",ATM,****1553,clean,$-456.10
+2,,2025-04-19,2025-04-19,,3888.94,EUR,EUR,Credit,Shell,,Shell purchase,"New York, USA",POS,****8756,clean,"€3,888.94"
+2,,2023-08-10,2023-08-12,,1081.83,EUR,CHF,Debit,Netflix,Technology,Become something reduce probably already.,"Berlin, Germany",POS,****4341,clean,"€1,081.83"
+2,,,2023-11-19,,2797.66,CHF,USD,Debit,Netflix,Dining,Debit at Netflix,"London, UK",ATM,****8353,clean,2797.66 CHF
+2,,2023-12-24,2023-12-24,,4167.27,USD,USD,Online,Uber,Subscription,Uber trip to Berlin,"Berlin, Germany",Online,****4323,clean,"4,167.27 USD"
+2,50b8047a-5c39-4c8a-a433-3c16b7d2fabd,,2024-02-25,,1606.05,USD,CHF,Online,Amazon,Shopping,Rich offer long special support.,"Zurich, Switzerland",POS,****2090,clean,"$1,606.05"
+2,,2023-07-23,2023-07-24,,2227.07,CHF,JPY,Debit,Apple,Subscription,Apple purchase,"Berlin, Germany",Online,****4299,clean,2227.07 CHF
+2,hq8345363,,2024-11-18,2024-11-16,983.26,USD,CHF,Debit,Starbucks,Subscription,Uber trip to Berlin,"Berlin, Germany",ATM,****6137,clean,$983.26
+2,,,2025-02-16,,3148.29,USD,CHF,Transfer,Netflix,,Online 83556,"Zurich, Switzerland",Online,****9420,clean,"$3,148.29"
+2,,2024-05-05,2024-05-08,,1375.68,GBP,GBP,Online,Lufthansa,Subscription,Uber trip to Zurich,"Zurich, Switzerland",Online,****4916,clean,"1.375,68"
+2,pH9985221,2023-07-05,2023-07-08,,-594.2,USD,EUR,Bill Payment,Lufthansa,Travel,Lufthansa purchase,"Paris, France",POS,****5529,clean,-594.20 USD
+3,,,2023-12-26,,-697.24,USD,USD,POS,McDonald's,Transport,Thank maybe heart write baby body.,"Berlin, Germany",Online,****5465,clean,-697.24 USD
+3,,2024-05-30,2024-06-02,,3392.76,EUR,EUR,Debit,Starbucks,Clothing,Uber trip to Zurich,"Zurich, Switzerland",Online,****7454,clean,"3.392,76"
+3,,2024-12-29,2024-12-31,,-965.45,USD,USD,POS,McDonald's,,Uber trip to London,"London, UK",Online,****7725,clean,-965.45 USD
+3,c0215d4c-fe94-4eb4-b77f-342fe15abbfe,2025-04-13,2025-04-15,,4271.44,GBP,GBP,Debit,Uber,Dining,Uber purchase,"New York, USA",Online,****4369,clean,"4.271,44"
+3,mD2399401,2023-11-26,2023-11-29,,358.42,EUR,EUR,Transfer,Apple,,Become Republican pay toward once peace either.,"New York, USA",Online,****4066,clean,€358.42
+3,,,2023-07-26,2023-07-24,-120.63,USD,EUR,Bill Payment,Zara,Fuel,Zara purchase,"Paris, France",ATM,****8417,clean,$-120.63
+3,22bd9592-9745-4162-a75b-d432403247e3,2025-03-17,2025-03-17,,-1697.09,USD,USD,Transfer,,Transport,Leg case artist them.,"Zurich, Switzerland",POS,****9178,missing_merchant_name,"$-1,697.09"
+3,,,2024-07-06,,1767.24,USD,CHF,Debit,Uber,Clothing,Online 21623,"Berlin, Germany",Online,****5778,clean,"$1,767.24"
+3,,,2024-04-07,2024-04-04,-220.33,USD,CHF,Online,Amazon,Subscription,Action lead page within response usually.,"London, UK",ATM,****7292,clean,$-220.33
+3,adee235c-dfe2-4fec-ac09-20b8e74648d0,2024-01-14,2024-01-16,,-202.06,EUR,USD,Bill Payment,Amazon,Entertainment,Uber trip to Zurich,"Zurich, Switzerland",POS,****1168,clean,€-202.06
+3,63d6abb3-9045-45c0-8750-1275fed5d1f8,,2024-12-21,,4408.7,EUR,USD,Online,Starbucks,Entertainment,Uber trip to New York,"New York, USA",Online,****1450,clean,"€4,408.70"
+3,6d4947ef-6cc2-4986-8ac3-d3e793d17536,,2023-12-13,,-305.52,USD,CHF,Online,,,Example represent arrive herself store.,"London, UK",POS,****6156,missing_merchant_name,$-305.52
+3,,,2025-03-18,2025-03-15,1311.7,USD,GBP,Bill Payment,,,ATM 56794,"London, UK",ATM,****9185,missing_merchant_name,"$1,311.70"
+3,tC6070678,2025-02-28,2025-03-01,,1182.82,USD,CHF,Bill Payment,Starbucks,Clothing,Bill Payment at Stabucks,,POS,****5327,clean,"$1,182.82"
+3,,,2024-03-24,,-389.31,EUR,CHF,Online,Starbucks,Dining,Online at Starbucks,,Online,****8713,clean,€-389.31
+3,HH9119221,,2024-08-17,2024-08-16,4241.63,USD,USD,Transfer,Lufthansa,Dining,Uber trip to Paris,"Paris, France",POS,****8838,clean,"$4,241.63"
+3,e72a8026-8e4e-4408-803f-b744aaa143e3,,2023-08-11,2023-08-11,1412.44,USD,USD,Credit,H&M,Subscription,Credit at H&M,"London, UK",Online,****1954,clean,"1,412.44 USD"
+3,,,2024-11-29,,764.96,USD,EUR,Credit,Uber,Clothing,Uber purchase,"Paris, France",Online,****8837,clean,764.96 USD
+3,lp4646330,,2024-09-08,2024-09-05,2554.99,EUR,EUR,Transfer,H&M,Technology,H&M purchase,"London, UK",Online,****6518,clean,"€2,554.99"
+3,,2025-01-04,2025-01-07,,25.45,CHF,USD,Transfer,Shell,Technology,POS 41341,"Zurich, Switzerland",POS,****2399,clean,25.45 CHF
+3,gx8552558,,2025-03-25,2025-03-24,4899.26,CHF,USD,POS,H&M,Fuel,Only begin fish finally term thought.,"Berlin, Germany",Online,****6544,clean,4899.26 CHF
+3,Kp7701769,,2024-05-05,2024-05-05,4886.65,USD,CHF,Debit,Uber,Clothing,Year scene else election require deal.,"Berlin, Germany",ATM,****2823,clean,"4,886.65 USD"
+3,,,2024-03-07,2024-03-06,773.16,CHF,GBP,Online,Netflix,Transport,Net@lix purchase,"New York, USA",ATM,****2813,clean,773.16 CHF
+3,cb40f149-ab93-4676-bbd7-d95e18e73922,2025-04-28,2025-05-01,,4368.92,USD,USD,Debit,Shell,,POS 48263,"London, UK",POS,****8184,clean,"4,368.92 USD"
+3,59d71b63-2c0b-4faa-864f-1c55f66f730e,2023-12-17,2023-12-18,,-1010.95,EUR,CHF,Debit,Shell,Technology,Shell purchase,"London, UK",ATM,****3725,clean,"€-1,010.95"
+3,,2024-04-16,2024-04-17,,4279.32,GBP,GBP,POS,Lufthansa,,Uber trip to London,"London, UK",POS,****2280,clean,"4.279,32"
+3,889a28d0-c0ce-40af-b7c2-441dbe045b7e,2024-08-11,2024-08-14,,-1307.6,USD,USD,Credit,Shell,,Uber trip to London,"London, UK",ATM,****3746,clean,"$-1,307.60"
+3,541a4a16-bda8-46b3-bb72-45766fa78837,2024-05-21,2024-05-24,,4554.36,EUR,EUR,Debit,Shell,Technology,ATM 34831,"Paris, France",ATM,****1060,clean,"€4,554.36"
+3,de9c8226-bfc8-4288-9e17-3d69fe0ec5ad,,2025-01-14,,3900.94,CHF,CHF,Transfer,Apple,Clothing,Uber trip to New York,"New York, USA",Online,****5658,clean,3900.94 CHF
+3,67571dd2-9d01-43ca-b7ea-0259351ab501,2023-08-09,2023-08-11,,3648.8,CHF,EUR,Online,Starbucks,Dining,Online at Starbucks,"New York, USA",POS,****9505,clean,3648.80 CHF
+3,,,2023-06-30,,4827.91,EUR,USD,Salary,,Subscription,Kitchen son measure thing stop upon four base.,"New York, USA",ATM,****1768,missing_merchant_name,"€4,827.91"
+3,ok4633266,2023-07-28,2023-07-29,,2187.55,EUR,EUR,POS,Starbucks,Entertainment,Starbucks purchase,"New York, USA",Online,****5770,clean,"€2,187.55"
+3,,2024-06-21,2024-06-22,,2925.26,CHF,EUR,Online,Amazon,Dining,ATM 55513,"New York, USA",ATM,****2285,clean,2925.26 CHF
+3,aK9657644,,2024-09-17,,454.16,USD,EUR,ATM,Uber,Dining,POS 92850,"London, UK",POS,****9256,clean,454.16 USD
+3,,2023-10-14,2023-10-16,,1675.89,CHF,USD,Debit,Apple,Entertainment,Apple purchase,,POS,****7437,clean,1675.89 CHF
+3,Sr6227053,2024-03-28,2024-03-31,,1097.45,USD,CHF,Online,McDonald's,Technology,POS 71828,"Berlin, Germany",POS,****2465,clean,"$1,097.45"
+3,,,2025-03-08,2025-03-07,-15.66,CHF,CHF,Salary,Netflix,Subscription,Online 51497,"Berlin, Germany",Online,****1821,clean,"-15,66"
+3,,2023-07-31,2023-07-31,,4168.78,USD,EUR,Credit,,Transport,ATM 68923,"New York, USA",ATM,****9801,missing_merchant_name,"4,168.78 USD"
+3,343506a1-1876-4a92-8b7e-67ee4272f5ce,,2024-09-15,,-1259.36,USD,USD,ATM,Amazon,Shopping,Choose president each base can fall.,,ATM,****4760,clean,"$-1,259.36"
+3,WX9835374,2024-08-01,2024-08-02,,3243.23,EUR,EUR,Salary,Apple,,Away thank similar stay leader bit field conference.,"New York, USA",Online,****6041,clean,"3.243,23"
+3,fcc81f99-8434-4f47-b960-fd331ba26c4a,2025-01-09,2025-01-09,,1206.15,CHF,USD,ATM,H&M,Technology,Uber trip to Paris,"Paris, France",Online,****4782,clean,1206.15 CHF
+3,Ec2409091,,2025-06-09,,2830.45,CHF,USD,Credit,Starbucks,Technology,POS 90156,"New York, USA",POS,****8660,clean,2830.45 CHF
+3,145c441e-f6ad-4989-bc2f-fd00584ca115,,2024-11-18,,3734.37,CHF,EUR,Credit,Amazon,,Amazon purchase,"Paris, France",ATM,****3739,clean,3734.37 CHF
+3,uk3030595,,2025-03-03,,2977.03,CHF,CHF,ATM,H&M,Subscription,Uber trip to New York,"New York, USA",Online,****4127,clean,2977.03 CHF
+3,c7bac54f-8465-4197-8d67-f08aafe6f7ef,2024-05-24,2024-05-25,,64.02,CHF,EUR,POS,Starbucks,Transport,ATM 43048,"Zurich, Switzerland",ATM,****1621,clean,64.02 CHF
+3,,,2024-08-14,,681.2,GBP,GBP,POS,H&M,Shopping,Uber trip to Zurich,"Zurich, Switzerland",ATM,****6582,clean,"681,20"
+3,,,2024-06-07,2024-06-05,1487.24,USD,GBP,Debit,Shell,Fuel,Debit at Shell,"New York, USA",POS,****2181,clean,"1,487.24 USD"
+3,Sl4842556,2025-06-22,2025-06-24,,1922.03,CHF,CHF,Credit,Starbucks,Travel,Credit at Starbucks,"Zurich, Switzerland",POS,****2567,clean,1922.03 CHF
+3,hk0622436,2024-11-16,2024-11-16,,4250.26,EUR,USD,Transfer,Uber,Travel,Uber trip to Zurich,"Zurich, Switzerland",Online,****1819,clean,"€4,250.26"
+3,,2025-01-29,2025-01-31,,2168.22,USD,EUR,Bill Payment,Apple,Entertainment,Thing second yourself fear sound.,"Zurich, Switzerland",Online,****9876,clean,"$2,168.22"
+3,iU8439172,2023-09-18,2023-09-20,,778.01,GBP,GBP,Bill Payment,Amazon,Travel,Amazon purchase,,ATM,****8667,clean,"778,01"
+3,fc5fce1c-822a-4205-91e8-0c0daddeb1d8,2025-01-07,2025-01-09,,2292.38,USD,CHF,Salary,H&M,Clothing,Energy fear whose piece art and course.,,POS,****8066,clean,"$2,292.38"
+3,d6537d63-39c3-4564-a960-9b0e5abe4422,,2025-06-23,,1801.49,USD,GBP,Credit,Zara,Entertainment,Credit at Zara,"Paris, France",Online,****9296,clean,"1,801.49 USD"
+3,,,2024-01-30,2024-01-30,-249.89,EUR,EUR,Debit,Amazon,Transport,Amazon purchase,"New York, USA",ATM,****4999,clean,€-249.89
+3,,2023-09-09,2023-09-11,,-772.7,USD,GBP,Transfer,Lufthansa,Fuel,Uber trip to Berlin,"Berlin, Germany",Online,****6657,clean,$-772.70
+3,,,2025-01-23,2025-01-22,2956.9,USD,USD,Transfer,Amazon,Entertainment,Online 11112,"Paris, France",Online,****1374,clean,"$2,956.90"
+3,,,2025-05-19,2025-05-19,4620.78,USD,USD,Bill Payment,Starbucks,,Teach those pick threat condition stand but.,"Paris, France",POS,****7631,clean,"$4,620.78"
+3,1ef14ead-23cc-4401-8d4a-457802c6f867,2025-02-04,2025-02-07,,4321.96,USD,GBP,Transfer,McDonald's,Technology,POS 57463,"London, UK",POS,****6162,clean,"$4,321.96"
+3,,2023-06-22,2023-06-23,,1700.19,EUR,EUR,Debit,Uber,Dining,Debit at Uber,"New York, USA",POS,****3318,clean,"€1,700.19"
+3,Zu0366891,,2024-02-06,,-1475.6,USD,USD,POS,Uber,Shopping,Uber trip to New York,"New York, USA",POS,****6365,clean,"-1.475,60"
+3,,2025-05-02,2025-05-04,,205.44,USD,USD,Online,Zara,Travel,Occur loss growth not feel system.,,Online,****8618,clean,$205.44
+3,Au4377305,,2023-07-02,,4706.04,EUR,CHF,Bill Payment,H&M,Subscription,Bill Payment at H&M,"Berlin, Germany",POS,****4813,clean,"€4,706.04"
+3,d4f24011-3102-4aa7-9d0a-1a1618f60d52,2023-06-26,2023-06-26,,4335.5,USD,CHF,Salary,Zara,Shopping,Salary at Zara,"London, UK",Online,****9976,clean,"4,335.50 USD"
+3,,,2024-01-29,2024-01-26,1855.88,CHF,USD,ATM,Netflix,Entertainment,Uber trip to London,"London, UK",POS,****3908,clean,1855.88 CHF
+3,NG4530010,,2024-10-07,,3341.13,USD,GBP,Transfer,Amazon,Technology,Amazon purchase,"Berlin, Germany",Online,****2706,clean,"3,341.13 USD"
+3,Sc7113874,2023-09-23,2023-09-24,,441.27,USD,JPY,Online,McDonald's,Shopping,Uber trip to London,"London, UK",POS,****6598,clean,$441.27
+3,8289dc0a-723e-440c-89e8-111801c3549d,,2024-11-28,2024-11-27,-608.93,USD,USD,Salary,Zara,Transport,Online 89950,"London, UK",Online,****3455,clean,"-608,93"
+3,6f2b7f82-3abb-46e9-8689-52da29bd4d67,,2025-05-22,2025-05-21,-645.27,USD,USD,Bill Payment,Zara,,Whose perform instead firm able wonder.,"New York, USA",Online,****3067,clean,"-645,27"
+3,,2024-09-06,2024-09-06,,2156.31,USD,CHF,Online,Netflix,Clothing,Netflix purchase,"Berlin, Germany",ATM,****7688,clean,"2,156.31 USD"
+3,3364a7a3-de91-4b2f-b883-4c824b4e934d,2023-12-08,2023-12-08,,-1747.55,USD,CHF,Salary,Zara,Travel,POS 12386,"Paris, France",POS,****5467,clean,"-1,747.55 USD"
+3,,,2023-12-18,,722.91,CHF,CHF,POS,Shell,Subscription,Shell purchase,"New York, USA",ATM,****4799,clean,"722,91"
+3,,,2025-01-29,2025-01-29,-139.7,USD,GBP,POS,Netflix,,Lawyer two office evidence can effort collection.,"Paris, France",Online,****7665,clean,$-139.70
+3,aa7e2f31-35a9-42d4-a3b8-b18547c554bc,,2023-11-12,2023-11-12,2161.7,CHF,CHF,Debit,Amazon,Fuel,ATM 25606,"Berlin, Germany",ATM,****1244,clean,2161.70 CHF
+3,,,2025-04-22,2025-04-19,2783.94,CHF,CHF,Debit,Starbucks,Dining,Protect cultural recently himself type whom.,"Paris, France",POS,****5360,clean,"2.783,94"
+3,5869ceb0-6825-479a-8cf3-17cc9c27125b,,2024-11-09,2024-11-07,1750.88,USD,EUR,Salary,Shell,Technology,Online 41285,"Berlin, Germany",Online,****9670,clean,"1,750.88 USD"
+3,d66d3a11-c093-4074-b0e2-8c2b372531aa,,2024-01-03,,2925.41,CHF,EUR,Transfer,Apple,Travel,POS 71634,"New York, USA",POS,****4856,clean,2925.41 CHF
+3,,,2024-02-26,2024-02-26,-150.37,USD,EUR,Online,McDonald's,Shopping,McDonald's purchase,"New York, USA",Online,****9122,clean,-150.37 USD
+3,YP1295818,2025-01-18,2025-01-20,,1866.03,CHF,USD,Online,Amazon,Travel,Online at Amazon,"New York, USA",POS,****9966,clean,1866.03 CHF
+3,NZ8751384,2023-11-27,2023-11-27,,2627.39,USD,GBP,POS,Netflix,Technology,POS at Netflix,"Paris, France",POS,****8149,clean,"$2,627.39"
+3,,,2025-05-17,,-1001.31,CHF,EUR,POS,Zara,Travel,Parent line western.,"New York, USA",POS,****3828,clean,-1001.31 CHF
+3,,2024-05-22,2024-05-23,,145.49,CHF,EUR,Salary,Lufthansa,Travel,Uber trip to Paris,"Paris, France",Online,****3011,clean,145.49 CHF
+3,,,2025-06-02,,4101.1,USD,USD,Credit,Amazon,Shopping,Pick wind together fill understand research.,"Paris, France",POS,****4174,clean,"$4,101.10"
+3,Pm1816814,2023-10-13,2023-10-13,,-533.04,USD,USD,Credit,Amazon,,Ama#on purchase,"Paris, France",POS,****1714,clean,$-533.04
+3,GA4137870,,2024-04-23,,2436.98,EUR,GBP,Debit,Shell,Dining,Shell purchase,"London, UK",ATM,****8879,clean,"€2,436.98"
+3,ux2711908,,2023-10-22,,2834.71,GBP,GBP,Debit,H&M,Shopping,Others wind top that possible year.,"Paris, France",ATM,****9743,clean,"2.834,71"
+3,mv1473153,2025-04-22,2025-04-23,,2546.86,EUR,GBP,Salary,Zara,Travel,ATM 11645,,ATM,****3402,clean,"€2,546.86"
+4,,,2025-03-22,2025-03-19,4745.69,USD,EUR,Debit,Zara,Shopping,Record theory cultural area art real.,"New York, USA",Online,****2113,clean,"$4,745.69"
+4,Lu7097042,2024-11-29,2024-11-29,,450.27,USD,EUR,Online,Starbucks,Subscription,Raise this alone just could beautiful.,"Paris, France",POS,****2588,clean,450.27 USD
+4,,2024-07-28,2024-07-31,,725.85,EUR,GBP,Bill Payment,H&M,Technology,Uber trip to Paris,"Paris, France",ATM,****9498,clean,€725.85
+4,,2025-04-06,2025-04-09,,-101.28,GBP,GBP,Credit,McDonald's,Fuel,POS 40286,"Zurich, Switzerland",POS,****7596,clean,"-101,28"
+4,hc7738221,2023-10-14,2023-10-16,,1356.8,USD,USD,Transfer,Lufthansa,Subscription,Uber trip to New York,"New York, USA",POS,****7272,clean,"$1,356.80"
+4,,,2024-10-07,,3738.46,CHF,CHF,Online,McDonald's,Transport,Online at McDonald's,"New York, USA",ATM,****2261,clean,3738.46 CHF
+4,,2023-12-25,2023-12-28,,2116.52,USD,USD,Salary,H&M,Entertainment,Myself center he arrive.,"London, UK",Online,****3382,clean,"$2,116.52"
+4,Tx0435449,,2024-06-26,,-1257.18,USD,CHF,Debit,Uber,Clothing,Education executive sport method.,,Online,****4336,clean,"$-1,257.18"
+4,,2024-07-26,2024-07-28,,722.61,CHF,USD,Credit,Lufthansa,Technology,Credit at Lufthansa,"New York, USA",POS,****3934,clean,722.61 CHF
+4,,,2023-11-29,,-1667.86,CHF,EUR,Transfer,Lufthansa,Travel,Luf@hansa purchase,"Paris, France",POS,****1628,clean,-1667.86 CHF
+4,bM0816396,2023-09-02,2023-09-03,,2442.03,EUR,CHF,Transfer,McDonald's,Shopping,POS 11160,"London, UK",POS,****5678,clean,"€2,442.03"
+4,,2024-06-10,2024-06-12,,-1567.06,CHF,CHF,Credit,H&M,Clothing,Credit at H&MX,"Paris, France",Online,****5023,clean,"-1.567,06"
+4,Ap6142332,2025-01-18,2025-01-19,,3663.22,USD,USD,Credit,Shell,Entertainment,Shell purchase,"Zurich, Switzerland",Online,****5875,clean,"3,663.22 USD"
+4,f177154b-30eb-4ff1-b059-54f98ef1c2d7,2024-09-29,2024-09-29,,2302.6,EUR,EUR,Transfer,Netflix,,Netflix purchase,"Berlin, Germany",ATM,****8833,clean,"2.302,60"
+4,,,2025-01-17,,4108.79,USD,EUR,POS,H&M,Technology,Uber trip to Paris,"Paris, France",POS,****9084,clean,"4,108.79 USD"
+4,4d6ad898-a9d7-413c-89d5-d3eff8350981,2024-12-16,2024-12-17,,3436.52,EUR,EUR,Credit,Shell,Transport,ATM 79285,"New York, USA",ATM,****5118,clean,"€3,436.52"
+4,,,2023-07-26,,-1227.93,EUR,CHF,Online,Netflix,Shopping,Online at Netflix,"Zurich, Switzerland",Online,****2089,clean,"€-1,227.93"
+4,Zw0982411,2025-02-08,2025-02-11,,-496.21,CHF,EUR,Online,Amazon,,Uber trip to Paris,"Paris, France",ATM,****7149,clean,-496.21 CHF
+4,,2024-07-22,2024-07-22,,3691.08,JPY,JPY,Debit,Starbucks,Technology,Starbucks purchase,"New York, USA",POS,****1223,clean,"3.691,08"
+4,bO4108616,2024-04-04,2024-04-07,,2269.74,USD,GBP,Salary,Apple,Technology,Data general painting agent before.,"New York, USA",POS,****5422,clean,"2,269.74 USD"
+4,,2024-11-05,2024-11-05,,1777.24,USD,USD,Bill Payment,Zara,Transport,Billion drop find learn.,"Paris, France",POS,****3559,clean,"$1,777.24"
+4,,,2024-06-19,2024-06-16,573.86,USD,GBP,ATM,Lufthansa,,ATM 89872,"Zurich, Switzerland",ATM,****3116,clean,$573.86
+4,aaeab3a5-ed05-4f27-898d-9ac424281125,2024-05-18,2024-05-18,,-434.69,USD,CHF,Bill Payment,Uber,Technology,POS 66092,"New York, USA",POS,****3058,clean,-434.69 USD
+4,Nv2592487,2024-12-02,2024-12-02,,4861.63,USD,USD,Online,Amazon,Clothing,Amazon purchase,"New York, USA",ATM,****4311,clean,"4,861.63 USD"
+4,Mt4186373,,2024-12-21,,2242.78,CHF,GBP,Online,Shell,,Event cause like hope their surface major.,"Paris, France",POS,****1894,clean,2242.78 CHF
+4,,2024-11-30,2024-12-01,,-1290.86,CHF,USD,Transfer,Starbucks,Transport,ATM 35736,"New York, USA",ATM,****7181,clean,-1290.86 CHF
+4,,,2024-08-03,2024-07-31,4024.04,GBP,GBP,POS,Netflix,Dining,Uber trip to Zurich,"Zurich, Switzerland",POS,****8301,clean,"4.024,04"
+4,cG8676622,2024-08-29,2024-08-30,,4813.03,EUR,CHF,Salary,Starbucks,Subscription,Salary at Starbucks,"London, UK",Online,****3251,clean,"€4,813.03"
+4,,,2025-06-10,,186.53,USD,EUR,ATM,Lufthansa,Shopping,ATM at Lufthansa,"London, UK",POS,****3291,clean,$186.53
+4,,,2025-01-04,,4641.33,EUR,EUR,POS,Starbucks,,POS 53065,,POS,****6145,clean,"4.641,33"
+4,,,2025-03-02,2025-03-01,3504.02,GBP,GBP,Salary,Amazon,Travel,Amazon purchase,"Berlin, Germany",ATM,****5637,clean,"3.504,02"
+4,,,2023-11-29,2023-11-27,4264.93,CHF,CHF,Bill Payment,,,POS 28652,"Berlin, Germany",POS,****1641,missing_merchant_name,"4.264,93"
+4,zD8872302,2025-01-12,2025-01-13,,2808.06,CHF,USD,ATM,Zara,Fuel,Zara purchase,"London, UK",Online,****1707,clean,2808.06 CHF
+4,Kn3407407,2023-10-15,2023-10-15,,-682.73,USD,GBP,Salary,H&M,Travel,Per long floor pretty shake able.,"New York, USA",Online,****6304,clean,$-682.73
+4,638732f2-465d-419f-8c06-eb52434d8ac3,2024-03-24,2024-03-27,,-121.88,USD,CHF,Bill Payment,Zara,Clothing,Bill Payment at Zara,"Berlin, Germany",Online,****7312,clean,-121.88 USD
+4,,2023-10-23,2023-10-23,,-1029.21,USD,USD,Salary,H&M,Dining,Salary at H&M,"Zurich, Switzerland",ATM,****6392,clean,"-1,029.21 USD"
+4,dP7281735,2024-11-08,2024-11-08,,-1599.71,CHF,CHF,Online,McDonald's,Shopping,Uber trip to London,"London, UK",POS,****3478,clean,-1599.71 CHF
+4,Cq6257899,,2025-04-23,,4878.81,USD,GBP,Bill Payment,Zara,Subscription,POS 14379,"Paris, France",POS,****1229,clean,"4,878.81 USD"
+4,CA4936540,,2025-05-23,2025-05-23,-403.31,EUR,USD,ATM,H&M,,H&M purchase,,Online,****3837,clean,€-403.31
+4,,,2023-12-31,2023-12-30,4623.95,EUR,EUR,Transfer,Shell,Transport,Shell purchase,"Paris, France",Online,****2830,clean,"€4,623.95"
+4,55231764-c6da-4de6-8c68-7f2a7f44c08c,2024-09-01,2024-09-03,,1613.22,EUR,EUR,POS,Apple,Entertainment,Particular especially significant option subject learn.,"Paris, France",POS,****9055,clean,"€1,613.22"
+4,,,2024-02-15,2024-02-14,171.84,USD,USD,Transfer,H&M,Travel,H&M purchase,,ATM,****4937,clean,$171.84
+4,ca97121f-3009-4caf-a42b-d0035d0fd22d,,2024-04-28,,106.91,USD,GBP,Transfer,Starbucks,Technology,Transfer at Starbucks,"Zurich, Switzerland",Online,****4392,clean,$106.91
+4,0b69c98c-3a55-4dc4-a733-15236889cf6d,,2024-04-04,,1878.35,CHF,CHF,Bill Payment,,Subscription,Service minute answer.,"Berlin, Germany",ATM,****2301,missing_merchant_name,"1.878,35"
+4,,2024-10-17,2024-10-20,,-1544.63,USD,CHF,POS,McDonald's,Entertainment,POS at McDonald's,"Paris, France",Online,****9833,clean,"-1,544.63 USD"
+4,,2025-03-19,2025-03-20,,-1781.63,USD,CHF,Credit,H&M,Shopping,Anyone half but success through action possible.,"New York, USA",POS,****2890,clean,"-1,781.63 USD"
+4,,,2024-05-10,2024-05-09,4201.42,CHF,CHF,Bill Payment,Zara,Shopping,POS 52476,,POS,****8952,clean,"4.201,42"
+5,,,2024-08-20,,2515.04,USD,EUR,ATM,H&M,Dining,How wear south music recognize light increase.,"Zurich, Switzerland",Online,****9605,clean,"$2,515.04"
+5,,2025-04-01,2025-04-02,,1191.96,CHF,USD,Salary,McDonald's,Technology,Part while subject accept someone debate toward reflect.,"Berlin, Germany",ATM,****4880,clean,1191.96 CHF
+5,mm8762446,2025-06-09,2025-06-11,,3504.09,EUR,EUR,Bill Payment,Uber,Technology,Uber purchase,,Online,****4711,clean,"€3,504.09"
+5,,2024-08-13,2024-08-13,,-108.07,EUR,EUR,Transfer,Shell,Clothing,Online 25694,"London, UK",Online,****5987,clean,€-108.07
+5,75f2542a-25d5-4104-859c-ba998a3e60b2,,2023-09-13,,-1256.18,GBP,GBP,Debit,Uber,Fuel,Uber trip to London,"London, UK",ATM,****2632,clean,"-1.256,18"
+5,534d0207-705a-4e02-ab62-307eb78446a7,2024-03-10,2024-03-11,,-242.42,USD,EUR,Transfer,Apple,Dining,ATM 67743,"Zurich, Switzerland",ATM,****8421,clean,-242.42 USD
+5,,,2024-10-22,,3550.01,CHF,EUR,ATM,Starbucks,Technology,Uber trip to New York,"New York, USA",POS,****7995,clean,3550.01 CHF
+5,c8fda12f-62c0-46ee-988a-945edc91b5ad,,2025-03-04,2025-03-02,-1187.05,CHF,GBP,Online,Apple,Dining,ATM 81674,"New York, USA",ATM,****5960,clean,-1187.05 CHF
+5,,2025-01-20,2025-01-22,,3162.01,USD,EUR,Debit,H&M,Clothing,H&M purchase,"Zurich, Switzerland",ATM,****2840,clean,"$3,162.01"
+5,07feadaf-b093-4cd3-91b2-1e50ee21f959,,2023-09-25,2023-09-24,-200.05,EUR,EUR,Bill Payment,Apple,Clothing,Uber trip to Berlin,"Berlin, Germany",Online,****5005,clean,"-200,05"
+5,qW4783726,,2024-04-29,,361.12,USD,CHF,Debit,Lufthansa,Transport,Debit at Lufthansa,"Berlin, Germany",ATM,****3298,clean,361.12 USD
+5,,,2023-09-04,2023-09-03,244.14,USD,GBP,Credit,McDonald's,Technology,Online 81115,"London, UK",Online,****6154,clean,$244.14
+5,zL4935268,,2025-03-08,,-564.44,USD,CHF,ATM,H&M,Transport,H&M purchase,"Paris, France",POS,****7753,clean,-564.44 USD
+5,,2024-08-07,2024-08-09,,3089.41,CHF,GBP,Transfer,Apple,Clothing,Online 53264,,Online,****7286,clean,3089.41 CHF
+5,4cef049a-b33e-47b9-b2d7-d848b445a6ad,2024-04-15,2024-04-15,,1436.36,CHF,CHF,Transfer,Zara,Clothing,Uber trip to Paris,,POS,****8008,clean,"1.436,36"
+5,nP8642934,,2024-09-04,,2734.65,EUR,GBP,Online,Uber,Entertainment,Uber trip to Zurich,,Online,****7140,clean,"€2,734.65"
+5,,2025-01-18,2025-01-21,,-1463.02,USD,CHF,Transfer,H&M,Subscription,H&M purchase,"New York, USA",ATM,****2879,clean,"$-1,463.02"
+5,c2038ed9-13c5-425f-95fe-9afb1addda28,2025-02-14,2025-02-15,,-672.8,CHF,USD,POS,Starbucks,Dining,POS at Starbucks,"London, UK",Online,****8761,clean,-672.80 CHF
+5,,2024-11-19,2024-11-20,,-1067.97,EUR,USD,Debit,Amazon,Dining,Amazon purchase,"London, UK",POS,****6819,clean,"€-1,067.97"
+5,2d1faa89-e386-4b5c-b2c7-d8646132fa34,,2024-12-04,2024-12-04,239.39,CHF,CHF,Transfer,Uber,Subscription,Transfer at Ube ,"Berlin, Germany",Online,****2951,clean,"239,39"
+5,,2025-04-24,2025-04-24,,2365.7,CHF,USD,POS,Apple,,Apple purchase,"Zurich, Switzerland",Online,****6380,clean,2365.70 CHF
+5,,,2024-04-23,,3537.67,CHF,GBP,Transfer,Apple,Fuel,Apple purchase,"Berlin, Germany",ATM,****4580,clean,3537.67 CHF
+5,,,2024-05-14,2024-05-14,-1043.67,CHF,CHF,Bill Payment,Lufthansa,Transport,Perhaps hotel identify the.,"New York, USA",POS,****2864,clean,"-1.043,67"
+5,,2025-06-10,2025-06-12,,2312.32,USD,EUR,POS,Apple,Fuel,Leave plant big collection fine.,"New York, USA",Online,****9695,clean,"$2,312.32"
+5,Pw3928273,,2024-06-25,2024-06-25,2506.12,USD,JPY,Online,Uber,Shopping,Uber trip to London,,Online,****5988,clean,"$2,506.12"
+5,,2024-05-08,2024-05-08,,670.9,USD,EUR,Online,Uber,Transport,Online at Uber,"Berlin, Germany",ATM,****8088,clean,670.90 USD
+5,Nt1829626,2024-06-03,2024-06-03,,3063.55,EUR,EUR,Credit,H&M,Transport,Credit at H&M,"London, UK",Online,****3172,clean,"3.063,55"
+5,9ba6513a-5928-4e70-ba61-2a9843b8975c,,2024-06-24,2024-06-23,2223.81,CHF,GBP,Salary,,Dining,Morning together design near us treatment.,"New York, USA",ATM,****8809,missing_merchant_name,2223.81 CHF
+5,,,2024-09-10,,4053.6,EUR,EUR,Bill Payment,Netflix,Travel,Uber trip to New York,"New York, USA",ATM,****6857,clean,"€4,053.60"
+5,7d092eee-9166-4663-81f8-00e08409d8af,2025-06-10,2025-06-12,,2984.92,CHF,EUR,POS,Zara,Fuel,Right hundred speak event.,"New York, USA",Online,****9638,clean,2984.92 CHF
+5,,,2024-01-23,2024-01-22,-1178.5,CHF,EUR,Salary,Uber,Entertainment,Those window rest room nothing easy become college.,"Paris, France",POS,****7045,clean,-1178.50 CHF
+5,,2024-05-29,2024-05-29,,1027.11,USD,JPY,POS,Amazon,Shopping,Focus will move protect though look Democrat.,"London, UK",ATM,****3934,clean,"1,027.11 USD"
+5,8220c354-dc10-4310-9e50-8a82c6da4022,,2024-01-05,2024-01-02,2061.88,CHF,EUR,Salary,McDonald's,Dining,McDonald's purchase,"Zurich, Switzerland",POS,****6320,clean,2061.88 CHF
+5,HN9000887,2025-01-22,2025-01-22,,2203.56,CHF,CHF,Online,Netflix,Subscription,Uber trip to Zurich,"Zurich, Switzerland",ATM,****8220,clean,2203.56 CHF
+5,c9a5689d-b490-4321-895f-e6ede4e7363b,,2024-09-10,,255.22,CHF,GBP,Transfer,Netflix,Dining,Netflix purchase,"New York, USA",Online,****8316,clean,255.22 CHF
+5,,2024-01-09,2024-01-09,,3207.47,EUR,EUR,Credit,H&M,,Lot to position hotel employee drop capital.,"London, UK",POS,****1536,clean,"3.207,47"
+5,,2025-02-25,2025-02-28,,-930.17,CHF,JPY,Transfer,H&M,Fuel,H&M purchase,,ATM,****4624,clean,-930.17 CHF
+5,780dd810-2b27-4e8d-a1ae-22be4bc4f30b,2025-06-16,2025-06-19,,2762.6,JPY,JPY,Online,Apple,Shopping,Online at Apple,"Zurich, Switzerland",ATM,****6641,clean,"2.762,60"
+5,dcf59bb3-ad25-453e-9bf4-2c7eb2e51874,,2025-03-23,,1884.91,EUR,EUR,Online,Netflix,Shopping,POS 35141,"Berlin, Germany",POS,****7669,clean,"1.884,91"
+5,b54abd68-18ca-450c-b9c2-699be719e0bf,2025-03-31,2025-04-03,,2888.39,CHF,USD,Online,Apple,,Appear half will institution.,"New York, USA",Online,****3661,clean,2888.39 CHF
+5,,2025-04-18,2025-04-18,,-27.9,EUR,GBP,Credit,Uber,Travel,Uber purchase,"London, UK",Online,****1975,clean,€-27.90
+5,,2024-08-27,2024-08-30,,3447.44,USD,CHF,Transfer,McDonald's,Fuel,Transfer at McDonald's,"New York, USA",Online,****6103,clean,"3,447.44 USD"
+5,,,2025-01-26,2025-01-24,958.14,EUR,CHF,Bill Payment,Shell,,POS 31693,"Berlin, Germany",POS,****5146,clean,€958.14
+5,gr4296320,2024-08-15,2024-08-17,,2055.79,CHF,EUR,Online,Uber,Shopping,Uber trip to Berlin,"Berlin, Germany",ATM,****7959,clean,2055.79 CHF
+5,,2023-08-08,2023-08-09,,-925.53,USD,EUR,Bill Payment,Shell,Dining,Near arm national dog decide person.,"London, UK",Online,****7664,clean,$-925.53
+5,,,2024-09-04,2024-09-01,2530.35,CHF,CHF,Salary,Uber,,Next down laugh pay play.,"Berlin, Germany",ATM,****2848,clean,2530.35 CHF
+5,,,2025-02-19,2025-02-17,4739.53,USD,EUR,POS,Uber,Entertainment,Uber purchase,"Zurich, Switzerland",POS,****8094,clean,"4,739.53 USD"
+5,,,2025-06-22,2025-06-19,-1988.54,EUR,GBP,Debit,Lufthansa,Transport,Debit at Lufthansa,"Zurich, Switzerland",Online,****3283,clean,"€-1,988.54"
+5,,2025-06-01,2025-06-02,,216.78,USD,CHF,POS,Netflix,Transport,POS at Netflix,"Paris, France",Online,****4468,clean,216.78 USD
+5,,2025-03-17,2025-03-19,,3270.51,EUR,USD,POS,Uber,Technology,Uber purchase,"New York, USA",ATM,****8248,clean,"€3,270.51"
+5,1bb95782-ba2d-4c27-9cfe-15a3bec5f23a,2023-09-17,2023-09-17,,348.97,USD,USD,ATM,Lufthansa,Travel,Uber trip to London,"London, UK",POS,****1279,clean,$348.97
+5,pf0603948,,2024-01-27,2024-01-27,4985.24,USD,EUR,Debit,H&M,Dining,H&M purchase,"Paris, France",Online,****1459,clean,"$4,985.24"
+5,,2024-01-13,2024-01-13,,-1006.36,USD,USD,Salary,Shell,Shopping,POS 87364,"Paris, France",POS,****8578,clean,"-1.006,36"
+5,,2023-08-03,2023-08-06,,4193.57,USD,USD,Credit,H&M,Subscription,Character imagine positive face need ball hair.,"Paris, France",ATM,****3020,clean,"4.193,57"
+5,9b6651e7-92da-449c-b8c2-3bac9beb672b,2024-11-02,2024-11-02,,3183.03,EUR,CHF,POS,Uber,Clothing,Uber trip to Zurich,"Zurich, Switzerland",Online,****1865,clean,"€3,183.03"
+5,,,2024-06-14,2024-06-14,2900.29,USD,GBP,POS,McDonald's,Fuel,Uber trip to Zurich,"Zurich, Switzerland",Online,****5276,clean,"$2,900.29"
+5,ah8844810,2025-01-10,2025-01-13,,2878.89,CHF,USD,Debit,Apple,Clothing,ATM 31754,"Berlin, Germany",ATM,****5057,clean,2878.89 CHF
+5,Ay9286888,2025-01-15,2025-01-18,,2177.92,GBP,GBP,Online,Uber,Transport,Online 61043,"Zurich, Switzerland",Online,****8673,clean,"2.177,92"
+5,Am4660540,,2024-02-18,2024-02-17,4981.45,USD,EUR,Online,Shell,Shopping,ATM 34216,"Berlin, Germany",ATM,****7821,clean,"4,981.45 USD"
+5,,2024-07-19,2024-07-20,,784.99,USD,GBP,Transfer,Lufthansa,Entertainment,Transfer at Lufthansa,"Zurich, Switzerland",ATM,****6508,clean,784.99 USD
+5,,2024-09-03,2024-09-04,,622.59,CHF,CHF,ATM,Shell,Entertainment,ATM 50619,"London, UK",ATM,****8833,clean,"622,59"
+5,,,2023-11-12,,4256.88,USD,CHF,Credit,H&M,Fuel,ATM 43278,"New York, USA",ATM,****7662,clean,"4,256.88 USD"
+5,,2023-11-09,2023-11-09,,3965.28,USD,EUR,Online,Uber,Shopping,Course stay likely production enjoy admit.,"New York, USA",POS,****7836,clean,"3,965.28 USD"
+5,142c6265-9ec5-43c7-b76c-ea1ef8e28e77,2025-05-07,2025-05-08,,4538.72,EUR,USD,ATM,H&M,Transport,POS 57744,,POS,****2017,clean,"€4,538.72"
+5,50572dcf-e379-458a-a119-119cd1966f30,2025-05-10,2025-05-12,,797.12,CHF,GBP,Salary,Starbucks,Subscription,Online 56413,"New York, USA",Online,****2787,clean,797.12 CHF
+5,,,2024-11-09,2024-11-08,-17.8,EUR,EUR,POS,H&M,Subscription,Uber trip to Zurich,"Zurich, Switzerland",ATM,****8795,clean,"-17,80"
+5,En1379077,,2025-06-25,2025-06-25,2916.72,CHF,EUR,POS,Amazon,Technology,POS at Amazon,"Berlin, Germany",ATM,****3490,clean,2916.72 CHF
+5,mS0085351,2024-12-02,2024-12-05,,4912.08,USD,USD,Bill Payment,Shell,Fuel,Kitchen at decide serious back relationship.,"Zurich, Switzerland",Online,****8585,clean,"$4,912.08"
+5,,2023-11-19,2023-11-22,,81.81,USD,USD,POS,Zara,Technology,Uber trip to Paris,"Paris, France",POS,****5210,clean,81.81 USD
+5,nj7596756,,2024-05-06,2024-05-03,4041.11,USD,GBP,Bill Payment,Apple,Entertainment,Bill Payment at Apple,"New York, USA",ATM,****7961,clean,"$4,041.11"
+5,,2024-01-05,2024-01-08,,3621.11,USD,CHF,Transfer,Apple,Transport,Generation fear address road.,"New York, USA",POS,****3051,clean,"3,621.11 USD"
+5,Jn2229617,2024-06-23,2024-06-26,,-964.98,CHF,CHF,Debit,H&M,Travel,Film move none health international service.,"Berlin, Germany",ATM,****8793,clean,"-964,98"
+5,pQ9521411,2024-03-07,2024-03-09,,-1341.13,CHF,CHF,POS,Lufthansa,,Lufthansa purchase,"Paris, France",ATM,****1937,clean,"-1.341,13"
+5,d868ded2-4e72-4a5b-83f7-6f886ef5a62b,,2024-03-11,2024-03-09,3899.93,USD,USD,Salary,H&M,Technology,H&M purchase,"New York, USA",ATM,****9494,clean,"$3,899.93"
+5,,,2024-02-02,2024-01-30,1463.02,CHF,USD,Salary,McDonald's,Dining,McDonald's purchase,"Berlin, Germany",ATM,****9313,clean,1463.02 CHF
+5,,,2024-04-22,,172.04,CHF,USD,ATM,Shell,Fuel,Shell purchase,"Paris, France",ATM,****2169,clean,172.04 CHF
+5,5f8dc1fb-2d1b-4b58-a14b-9f2c6f7f8cf4,,2023-08-18,,4496.55,EUR,EUR,Online,Apple,Travel,Uber trip to Paris,"Paris, France",POS,****7482,clean,"4.496,55"
+5,,,2025-06-19,,2970.07,GBP,GBP,Credit,Starbucks,Entertainment,Starbucks purchase,"Paris, France",POS,****6790,clean,"2.970,07"
+5,e440ee29-c728-4b43-9a85-f14939ec4999,2024-12-20,2024-12-21,,-1139.75,EUR,EUR,Online,Uber,Entertainment,Online 10423,"London, UK",Online,****8138,clean,"€-1,139.75"
+5,,2023-11-22,2023-11-25,,-228.82,CHF,EUR,Salary,McDonald's,Transport,Online 94578,"Berlin, Germany",Online,****7360,clean,-228.82 CHF
+5,MX5297029,,2025-01-10,,3402.77,USD,CHF,Online,H&M,Shopping,Online 16461,"New York, USA",Online,****1917,clean,"3,402.77 USD"
+5,,,2024-12-26,,4548.69,CHF,CHF,Credit,Amazon,Transport,Online 58042,"Paris, France",Online,****5023,clean,"4.548,69"
+5,dk3467553,2023-06-24,2023-06-27,,376.18,USD,USD,Online,H&M,Entertainment,POS 68679,"Paris, France",POS,****5676,clean,$376.18
+5,c8c5c516-3fbe-4367-b8ef-fb8affd26824,2025-03-08,2025-03-10,,855.79,EUR,CHF,Online,Shell,Travel,Career TV degree trouble.,"Zurich, Switzerland",Online,****5294,clean,€855.79
+6,,,2023-10-31,2023-10-30,4321.64,USD,GBP,Bill Payment,H&M,Technology,Uber trip to Berlin,"Berlin, Germany",POS,****1187,clean,"$4,321.64"
+6,,2024-12-20,2024-12-21,,-798.58,USD,USD,Credit,H&M,Transport,ATM 99492,"New York, USA",ATM,****3801,clean,-798.58 USD
+6,7ddf9547-d890-40a2-a3ad-43cda606483d,2024-12-08,2024-12-09,,-1875.24,EUR,EUR,Salary,McDonald's,,Operation through say compare military.,"Paris, France",POS,****9025,clean,"€-1,875.24"
+6,,,2023-10-14,2023-10-14,-1919.68,EUR,EUR,Debit,Zara,Travel,Debit at Zara,"Berlin, Germany",POS,****1034,clean,"-1.919,68"
+6,6b6d87e0-18a8-46e6-87b6-e1a72d0a3194,2024-01-07,2024-01-10,,-1640.25,USD,GBP,POS,Apple,Subscription,POS at Apple,"Berlin, Germany",POS,****6488,clean,"$-1,640.25"
+6,,2025-05-26,2025-05-26,,3714.47,USD,USD,Bill Payment,Amazon,,Amazon purchase,"London, UK",POS,****4755,clean,"$3,714.47"
+6,zD0741098,2024-08-29,2024-08-29,,4099.94,USD,JPY,Salary,Uber,Shopping,Market environment whatever hotel employee the.,"London, UK",Online,****9025,clean,"$4,099.94"
+6,1fa7781f-1941-482a-ab72-cb81c4221663,,2025-04-06,,-1969.42,EUR,CHF,Online,Zara,Entertainment,Others prove group them laugh prove.,"New York, USA",POS,****5737,clean,"€-1,969.42"
+6,a4c2e17f-dd21-4177-815f-d194516e047a,,2024-12-22,,339.62,CHF,CHF,POS,Lufthansa,Clothing,POS 23962,"London, UK",POS,****8385,clean,339.62 CHF
+6,,,2025-04-01,2025-03-29,1353.97,USD,GBP,Transfer,McDonald's,Transport,McDonald's purchase,"Zurich, Switzerland",ATM,****5579,clean,"1,353.97 USD"
+6,f5136590-8bd8-49b7-8c13-e64797d6966a,,2023-07-24,2023-07-22,3591.11,EUR,CHF,Credit,Shell,,Senior degree break always point vote before.,"London, UK",ATM,****5784,clean,"€3,591.11"
+6,5ff6c8a7-298d-4c73-a981-5fd737264f10,,2024-05-26,,1209.71,CHF,USD,Bill Payment,Lufthansa,Technology,Online 61631,"London, UK",Online,****3028,clean,1209.71 CHF
+6,,2024-08-04,2024-08-06,,4375.3,EUR,USD,Salary,Apple,Travel,Uber trip to Berlin,"Berlin, Germany",POS,****2949,clean,"€4,375.30"
+6,,,2024-10-19,2024-10-16,4835.98,JPY,JPY,Debit,Amazon,Transport,Single at bad bring.,"Zurich, Switzerland",POS,****9813,clean,"4.835,98"
+6,2076ec86-5712-430a-96c1-34de6ae8a931,2024-07-31,2024-08-02,,3403.98,JPY,JPY,Transfer,Amazon,Transport,Transfer at Amazon,"Zurich, Switzerland",POS,****9754,clean,"3.403,98"
+6,,2025-06-09,2025-06-11,,3636.4,USD,USD,ATM,Lufthansa,Dining,Lufthansa purchase,"Paris, France",Online,****9614,clean,"$3,636.40"
+6,,2024-06-12,2024-06-15,,-695.38,USD,JPY,Bill Payment,Apple,Technology,ATM 70546,"Zurich, Switzerland",ATM,****1760,clean,-695.38 USD
+7,,,2024-09-21,,-1242.2,USD,GBP,Transfer,H&M,,World loss college year.,"Zurich, Switzerland",Online,****2585,clean,"$-1,242.20"
+7,100b7457-7478-42ba-8b5f-41e4eb31e7d2,,2024-08-22,2024-08-20,4374.88,USD,EUR,POS,Apple,Subscription,Apple purchase,"London, UK",ATM,****6201,clean,"4,374.88 USD"
+7,,2025-02-12,2025-02-14,,-1063.76,USD,USD,Salary,Uber,Subscription,Uber trip to Berlin,"Berlin, Germany",ATM,****1360,clean,"$-1,063.76"
+7,,,2023-09-15,,1270.14,CHF,CHF,ATM,McDonald's,Clothing,ATM at McDnald's,"Zurich, Switzerland",Online,****5494,clean,1270.14 CHF
+7,,2024-05-20,2024-05-20,,566.88,USD,GBP,Transfer,Apple,Transport,Transfer at Apple,"Zurich, Switzerland",POS,****4321,clean,$566.88
+7,d1753179-a242-4493-9dbb-d374f6e46ad0,2025-06-09,2025-06-11,,1818.96,EUR,USD,POS,Lufthansa,Fuel,ATM 51053,"London, UK",ATM,****7358,clean,"€1,818.96"
+7,0b00d6dd-ca95-4499-a6e8-3987982a83a2,2025-01-15,2025-01-18,,4349.63,EUR,EUR,Credit,Uber,Fuel,Uber trip to Berlin,"Berlin, Germany",Online,****6100,clean,"4.349,63"
+7,,2023-09-15,2023-09-17,,105.51,EUR,EUR,Salary,,Travel,Bit hot majority minute military international.,"Berlin, Germany",Online,****8923,missing_merchant_name,"105,51"
+7,64eb157b-f31c-4bef-83f4-2f9608b7750b,,2023-10-21,2023-10-20,2055.11,CHF,EUR,Bill Payment,H&M,Technology,ATM 86321,,ATM,****1193,clean,2055.11 CHF
+7,9dedb19e-5fe7-4342-b548-8c08163b728e,2023-09-18,2023-09-21,,3018.58,CHF,USD,Debit,,Transport,POS 69988,,POS,****9256,missing_merchant_name,3018.58 CHF
+7,eN0800620,2024-11-04,2024-11-07,,2655.57,GBP,GBP,Bill Payment,Amazon,Transport,Uber trip to Berlin,"Berlin, Germany",Online,****1003,clean,"2.655,57"
+7,,,2025-04-22,,4999.87,EUR,EUR,Bill Payment,,,POS 22361,"Berlin, Germany",POS,****3144,missing_merchant_name,"4.999,87"
+7,,,2024-04-22,,833.17,USD,CHF,Debit,McDonald's,Transport,McDonald's purchase,"Zurich, Switzerland",Online,****3115,clean,$833.17
+7,,2024-11-07,2024-11-07,,-1778.58,GBP,GBP,POS,Amazon,Dining,Amazon purchase,,POS,****3427,clean,"-1.778,58"
+7,Lh5316255,,2024-11-08,,2737.39,CHF,GBP,Online,Starbucks,,Uber trip to New York,"New York, USA",ATM,****6588,clean,2737.39 CHF
+7,,,2023-10-09,,-1001.52,USD,EUR,ATM,Uber,,Uber trip to London,"London, UK",POS,****2035,clean,"-1,001.52 USD"
+7,a5e65aa7-267a-4961-9a41-b69b91ab4e65,,2023-12-14,2023-12-11,1118.4,EUR,CHF,POS,Apple,Dining,Apple purchase,"Zurich, Switzerland",Online,****3469,clean,"€1,118.40"
+7,fc7591119,,2023-09-20,2023-09-19,3641.43,EUR,USD,POS,Shell,Technology,Shell purchase,"New York, USA",POS,****3002,clean,"€3,641.43"
+7,,2023-06-28,2023-07-01,,4050.3,USD,CHF,Salary,Amazon,Dining,Salary at Amazon,"Berlin, Germany",Online,****7307,clean,"$4,050.30"
+7,gU8518947,,2023-09-13,2023-09-10,883.04,USD,USD,Transfer,Netflix,Fuel,Transfer at Netflix,"Paris, France",POS,****8308,clean,"883,04"
+7,,,2024-02-01,2024-01-31,3319.28,USD,JPY,POS,Netflix,Shopping,Online 10319,"Paris, France",Online,****8410,clean,"3,319.28 USD"
+7,7e9900f8-dd00-4703-9752-d1ac608fff51,2025-01-22,2025-01-22,,4185.27,EUR,EUR,Salary,Shell,Transport,Like friend point.,"New York, USA",Online,****7510,clean,"€4,185.27"
+7,,2024-12-19,2024-12-21,,-981.69,EUR,USD,Online,Netflix,Clothing,Netflix purchase,"Berlin, Germany",ATM,****8396,clean,€-981.69
+7,AX2805040,2024-10-02,2024-10-04,,2916.85,CHF,EUR,Transfer,Shell,Dining,Business out Congress year large us.,"Zurich, Switzerland",ATM,****6060,clean,2916.85 CHF
+7,159991fa-5d39-4da0-a5bb-0408e346e919,,2025-04-21,,4960.05,USD,USD,Bill Payment,Netflix,Travel,Bill Payment at Netflix,"New York, USA",POS,****3395,clean,"4,960.05 USD"
+7,,2024-09-05,2024-09-06,,1021.03,CHF,CHF,POS,Lufthansa,Transport,POS at Lufthansa,,Online,****3389,clean,1021.03 CHF
+7,0b6726a8-500a-43fd-b7a5-1827e34f7c25,,2025-04-16,,2671.11,USD,JPY,POS,Shell,Travel,Enjoy clear really.,"Paris, France",POS,****7038,clean,"2,671.11 USD"
+8,d6b865b4-033b-4237-9fe4-5f6ba5b7af46,,2025-02-24,,-1469.78,EUR,GBP,Online,Amazon,Shopping,ATM 86701,,ATM,****2000,clean,"€-1,469.78"
+8,bc60b529-23bc-45fa-b177-b11cf000959c,2024-06-27,2024-06-30,,-1452.44,EUR,CHF,Debit,Lufthansa,Subscription,Lufthansa purchase,"Paris, France",POS,****7619,clean,"€-1,452.44"
+8,ae9340382,2024-01-02,2024-01-03,,2456.93,CHF,GBP,Bill Payment,Uber,Technology,Bill Payment at Uber,"Zurich, Switzerland",Online,****4428,clean,2456.93 CHF
+8,,2024-08-22,2024-08-22,,2677.91,CHF,CHF,POS,Lufthansa,Dining,Lufthansa purchase,"London, UK",POS,****6170,clean,"2.677,91"
+8,We0067187,,2024-04-15,,-1010.94,USD,USD,Bill Payment,McDonald's,Shopping,Bill Payment at McDonald's,"Berlin, Germany",Online,****4211,clean,"-1.010,94"
+8,c1613f77-c7b4-48c3-9e74-24791ca34b4f,,2024-12-28,,1616.17,CHF,JPY,Credit,Netflix,Subscription,Credit at Netflix,,ATM,****7810,clean,1616.17 CHF
+8,,,2023-11-14,2023-11-13,2269.93,EUR,EUR,ATM,Shell,Technology,POS 57471,"New York, USA",POS,****3872,clean,"€2,269.93"
+8,xd2251751,,2023-06-27,2023-06-27,563.41,CHF,CHF,Credit,H&M,Subscription,H&M purchase,"Zurich, Switzerland",ATM,****9721,clean,"563,41"
+8,Uw4307822,2024-07-08,2024-07-10,,2414.99,GBP,GBP,Debit,Lufthansa,Transport,Debit at Lufthansa,"Paris, France",POS,****1304,clean,"2.414,99"
+8,64dbfa8a-74cf-4c86-bb68-1cbbaf3b0571,2025-07-16,2025-07-17,,2857.94,USD,GBP,Bill Payment,Netflix,Subscription,Bill Payment at Netflix,"New York, USA",ATM,****5298,clean,"$2,857.94"
+8,tA6410027,,2025-03-07,2025-03-04,1263.32,CHF,GBP,Credit,H&M,,Uber trip to Berlin,,ATM,****5353,clean,1263.32 CHF
+8,,2025-01-14,2025-01-16,,-1330.24,CHF,USD,Online,Shell,Technology,Online at Shell,"New York, USA",ATM,****2153,clean,-1330.24 CHF
+8,,,2025-04-20,,3681.04,USD,EUR,Transfer,Starbucks,Travel,Starbucks purchase,"Paris, France",POS,****8750,clean,"$3,681.04"
+8,b09c8b66-49ad-4f50-be93-703e2c0c6195,2024-07-30,2024-08-02,,3704.43,USD,GBP,Bill Payment,H&M,Entertainment,Popular gas idea free glass establish short others.,"Berlin, Germany",Online,****4291,clean,"3,704.43 USD"
+8,,,2024-09-01,2024-09-01,-1084.01,USD,USD,Debit,McDonald's,,Uber trip to New York,"New York, USA",Online,****2009,clean,"-1,084.01 USD"
+8,Cy9153227,2023-09-01,2023-09-04,,-1127.67,EUR,CHF,Credit,Uber,Entertainment,Uber trip to Berlin,"Berlin, Germany",POS,****9013,clean,"€-1,127.67"
+8,,,2024-07-09,,2692.05,CHF,CHF,Debit,Lufthansa,Travel,Uber trip to Paris,"Paris, France",POS,****7701,clean,"2.692,05"
+8,b5300d20-569c-4291-8d55-2b2f127ad137,,2023-09-03,,3412.46,USD,GBP,Transfer,Shell,,Uber trip to Paris,"Paris, France",ATM,****9327,clean,"$3,412.46"
+8,910b5dda-e5bd-4629-92a2-7609d75b2134,,2024-09-10,2024-09-08,381.18,EUR,EUR,Online,Apple,Shopping,Write win talk office ground news.,"New York, USA",ATM,****4571,clean,"381,18"
+8,6b093b19-e57b-4ee1-9249-66f07e5724b4,,2024-01-22,2024-01-21,-1271.11,USD,EUR,Online,Lufthansa,Dining,Online at Lufthansa,"London, UK",ATM,****8305,clean,"$-1,271.11"
+8,678ff657-868d-48e7-953b-10772f5c454c,2024-08-10,2024-08-12,,4724.84,CHF,CHF,Debit,McDonald's,Subscription,Debit at McDonald's,"New York, USA",Online,****5442,clean,"4.724,84"
+8,,,2024-11-09,,-25.9,USD,JPY,Bill Payment,McDonald's,Entertainment,Uber trip to Paris,"Paris, France",Online,****2323,clean,-25.90 USD
+8,c0e30ec3-435b-460c-9acd-3d1b74ebfc7c,,2024-09-14,2024-09-14,4601.82,USD,CHF,Bill Payment,Netflix,,Attorney support girl performance account.,"Zurich, Switzerland",Online,****3189,clean,"4,601.82 USD"
+8,,2023-08-24,2023-08-25,,2702.18,CHF,CHF,Online,Netflix,Clothing,ATM 37392,,ATM,****5622,clean,"2.702,18"
+8,3b49fb7b-e1ce-400d-9327-7d702a15a167,2024-05-08,2024-05-08,,2970.15,USD,CHF,Bill Payment,Uber,Clothing,Uber trip to London,"London, UK",POS,****7795,clean,"$2,970.15"
+8,eD9597868,2025-01-15,2025-01-15,,1579.4,USD,USD,Transfer,Uber,Travel,Uber trip to Zurich,"Zurich, Switzerland",ATM,****8048,clean,"1.579,40"
+8,,2024-04-20,2024-04-21,,258.58,USD,GBP,Salary,H&M,Entertainment,So point best learn stay stock real.,"London, UK",Online,****7658,clean,$258.58
+8,my1602982,,2023-07-14,2023-07-14,-888.37,CHF,EUR,ATM,Lufthansa,Transport,Uber trip to Paris,"Paris, France",Online,****3321,clean,-888.37 CHF
+8,,,2024-10-11,2024-10-10,-1579.2,EUR,EUR,Transfer,Apple,Transport,POS 30731,"Paris, France",POS,****2015,clean,"-1.579,20"
+8,82f33705-c679-436d-9a7a-0af66aa02152,2024-08-03,2024-08-03,,-1404.08,USD,GBP,Online,Lufthansa,Shopping,Uber trip to London,"London, UK",Online,****3073,clean,"-1,404.08 USD"
+8,b5b26af1-3ca0-4b30-a5ee-84d6285f390b,2024-04-23,2024-04-26,,3619.4,USD,CHF,Bill Payment,Lufthansa,Travel,Uber trip to London,"London, UK",Online,****7325,clean,"$3,619.40"
+8,Pa0367888,2023-09-15,2023-09-18,,58.64,USD,JPY,ATM,Uber,Transport,Uber purchase,"Zurich, Switzerland",POS,****1891,clean,$58.64
+8,,2025-06-17,2025-06-17,,-1137.72,USD,GBP,Debit,McDonald's,Transport,Level enter tell senior when Republican political lose.,"Paris, France",Online,****9372,clean,"-1,137.72 USD"
+8,,2024-07-12,2024-07-12,,1944.69,USD,CHF,Online,H&M,Dining,Move close peace bit nearly.,"Zurich, Switzerland",ATM,****1017,clean,"$1,944.69"
+8,,2023-09-26,2023-09-29,,-706.57,USD,USD,Debit,McDonald's,Travel,McDonald's purchase,"Berlin, Germany",ATM,****8996,clean,-706.57 USD
+8,,2025-04-26,2025-04-29,,4232.99,EUR,CHF,Bill Payment,Netflix,Transport,Netflix purchase,"New York, USA",POS,****6594,clean,"€4,232.99"
+8,,2024-12-16,2024-12-17,,-275.98,USD,GBP,POS,McDonald's,Clothing,ATM 16959,,ATM,****7718,clean,$-275.98
+8,CM5380310,2024-06-03,2024-06-05,,3797.25,USD,EUR,Debit,,Technology,Online 11265,,Online,****1322,missing_merchant_name,"$3,797.25"
+8,68a59567-4119-4e7c-b953-4526d0151ed1,2025-03-02,2025-03-02,,2814.59,USD,EUR,Debit,Amazon,Entertainment,Debit at Amazon,"Berlin, Germany",POS,****3750,clean,"$2,814.59"
+8,957e392b-b63c-4af3-b272-d5c5dec59030,2024-05-23,2024-05-24,,1234.76,EUR,USD,ATM,McDonald's,Transport,Create summer Republican us sing cost.,"Zurich, Switzerland",Online,****8220,clean,"€1,234.76"
+8,,,2025-04-02,,1605.33,USD,CHF,ATM,Shell,Technology,Knowledge have hot box.,"Paris, France",ATM,****2272,clean,"$1,605.33"
+8,CR9613134,,2025-01-21,2025-01-19,2710.84,EUR,CHF,Transfer,Shell,Shopping,Shell purchase,"New York, USA",Online,****8142,clean,"€2,710.84"
+8,01ee23d0-94d0-4f2e-bf83-7a529f6f242b,,2024-10-13,2024-10-10,-1854.07,USD,JPY,Transfer,McDonald's,Fuel,McDonald's purchase,"New York, USA",POS,****6513,clean,"-1,854.07 USD"
+8,,2024-03-28,2024-03-29,,351.91,USD,CHF,POS,Lufthansa,,Online 93349,"London, UK",Online,****3640,clean,$351.91
+8,70c01db2-9806-47e7-83f8-45e8176cc47f,2024-12-04,2024-12-04,,3095.75,CHF,GBP,Credit,McDonald's,Dining,ATM 56982,"New York, USA",ATM,****6714,clean,3095.75 CHF
+8,,2025-03-28,2025-03-31,,-1461.26,USD,CHF,Credit,McDonald's,,McDonald's purchase,"Berlin, Germany",Online,****8547,clean,"-1,461.26 USD"
+8,a5474c76-6ec4-4e9a-8dd6-8d9e6d53b416,2025-05-07,2025-05-08,,2208.4,USD,USD,Salary,Zara,,Zara purchase,"New York, USA",Online,****4574,clean,"2.208,40"
+8,,,2023-07-25,2023-07-23,2211.08,USD,EUR,Online,Lufthansa,Transport,Online at Lufthansa,"Berlin, Germany",Online,****3982,clean,"2,211.08 USD"
+8,9a295a3b-f69a-43ff-86f6-ad5bf5450ecf,2025-02-01,2025-02-03,,4097.58,USD,EUR,Bill Payment,Uber,,POS 61781,"London, UK",POS,****1109,clean,"$4,097.58"
+8,,2024-06-13,2024-06-13,,944.62,CHF,USD,Online,H&M,Subscription,Uber trip to Berlin,"Berlin, Germany",Online,****3718,clean,944.62 CHF
+8,VX8327267,2024-01-27,2024-01-28,,4305.25,GBP,GBP,Bill Payment,Zara,Clothing,Online 23402,"New York, USA",Online,****8741,clean,"4.305,25"
+8,zB2491463,,2023-07-13,2023-07-10,684.63,EUR,GBP,Online,Netflix,Travel,Public discover subject without.,"Zurich, Switzerland",Online,****6363,clean,€684.63
+8,,2024-05-24,2024-05-27,,258.94,EUR,CHF,Bill Payment,Lufthansa,Dining,One once best election animal.,"Zurich, Switzerland",Online,****2133,clean,€258.94
+8,,2024-11-03,2024-11-05,,3163.53,USD,GBP,Transfer,Shell,Technology,Uber trip to Berlin,"Berlin, Germany",POS,****3816,clean,"3,163.53 USD"
+8,,,2024-05-25,,2801.1,USD,EUR,Bill Payment,H&M,Dining,Online 94570,"London, UK",Online,****1452,clean,"$2,801.10"
+8,,,2023-12-08,,4265.16,EUR,EUR,POS,Starbucks,,POS at Starbucks,,Online,****4409,clean,"€4,265.16"
+8,Rb1671712,2023-09-17,2023-09-18,,1665.03,EUR,GBP,Debit,Uber,Fuel,Uber trip to Berlin,"Berlin, Germany",Online,****6460,clean,"€1,665.03"
+8,,2023-10-18,2023-10-19,,-1341.4,CHF,EUR,Debit,Netflix,Shopping,Uber trip to London,"London, UK",POS,****3610,clean,-1341.40 CHF
+8,,,2023-11-28,2023-11-27,3193.26,EUR,USD,Credit,Shell,Clothing,Uber trip to London,"London, UK",Online,****5129,clean,"€3,193.26"
+8,,2025-05-02,2025-05-02,,1093.78,EUR,EUR,POS,Netflix,Technology,POS at Netflix,"Zurich, Switzerland",ATM,****3093,clean,"1.093,78"
+8,a614f721-0cf1-421d-bffb-200cfd697c69,,2025-06-26,,3426.45,EUR,EUR,Credit,Starbucks,,POS 55960,"Paris, France",POS,****8901,clean,"€3,426.45"
+8,cr0334373,,2025-01-24,,-450.09,USD,EUR,Salary,Netflix,Subscription,Speak direction report friend.,,POS,****6645,clean,-450.09 USD
+8,Ss0705445,2024-10-13,2024-10-16,,1517.66,USD,USD,Bill Payment,Lufthansa,Shopping,Half window be carry.,"Zurich, Switzerland",POS,****4543,clean,"1,517.66 USD"
+9,49e50058-5390-459e-9516-003ca69e90d7,,2024-02-04,2024-02-01,-1858.02,JPY,JPY,ATM,Shell,Fuel,POS 30891,"New York, USA",POS,****1203,clean,"-1.858,02"
+9,zf2615357,2024-07-22,2024-07-23,,1948.68,USD,USD,Debit,Shell,Technology,Shell purchase,"Berlin, Germany",POS,****9800,clean,"1.948,68"
+9,lE8439823,,2024-04-29,,-97.2,USD,CHF,ATM,McDonald's,Clothing,POS 42904,"London, UK",POS,****2932,clean,-97.20 USD
+9,,,2023-07-22,,352.45,USD,CHF,Debit,H&M,Transport,Debit at H&M,"Berlin, Germany",Online,****5237,clean,352.45 USD
+9,,,2024-01-29,,3819.58,CHF,USD,POS,Zara,Subscription,Zara purchase,"London, UK",POS,****5927,clean,3819.58 CHF
+9,,2023-11-20,2023-11-23,,-1842.56,CHF,GBP,Transfer,Zara,Dining,Transfer at Zara,"New York, USA",POS,****8980,clean,-1842.56 CHF
+9,b6efff1b-cce1-4eb5-8f76-43a8ad6ad95a,2023-12-22,2023-12-23,,4441.4,GBP,GBP,POS,Zara,Fuel,Zara purchase,"Berlin, Germany",Online,****9541,clean,"4.441,40"
+9,SH1294930,,2024-02-08,2024-02-08,4725.25,GBP,GBP,POS,Amazon,Shopping,POS 84988,"Zurich, Switzerland",POS,****9931,clean,"4.725,25"
+9,,,2023-11-07,2023-11-04,3852.02,USD,GBP,Online,,,Him couple group all fish partner.,"New York, USA",Online,****3974,missing_merchant_name,"3,852.02 USD"
+9,aacb394f-2436-4313-9d85-5a07a66ebe26,,2024-02-10,2024-02-08,-241.61,USD,CHF,Salary,,,Power finish attention yet poor.,"Zurich, Switzerland",ATM,****2377,missing_merchant_name,$-241.61
+9,,,2025-03-28,,3471.0,USD,CHF,Transfer,Starbucks,Shopping,Matter yeah pay.,"Berlin, Germany",Online,****1324,clean,"$3,471.00"
+9,,2024-06-14,2024-06-16,,4232.78,CHF,JPY,Transfer,Shell,Shopping,Uber trip to London,"London, UK",Online,****8424,clean,4232.78 CHF
+9,,,2024-07-01,,3154.22,USD,GBP,ATM,Apple,Fuel,Apple purchase,"New York, USA",ATM,****7305,clean,"3,154.22 USD"
+9,,2023-08-20,2023-08-23,,3017.49,CHF,CHF,ATM,,Travel,Part office debate suffer success however.,"London, UK",Online,****8893,missing_merchant_name,3017.49 CHF
+9,5a01678e-3b14-4a1a-98df-56ec8094fcee,2025-01-10,2025-01-12,,4483.94,USD,USD,Salary,Zara,Technology,Salary at Zara,"Berlin, Germany",POS,****9835,clean,"$4,483.94"
+9,,,2023-11-27,,3944.25,EUR,GBP,Transfer,McDonald's,,Point finish he stage laugh yourself.,"Berlin, Germany",Online,****1904,clean,"€3,944.25"
+9,yW6820161,,2024-08-08,,4610.23,USD,JPY,Bill Payment,Zara,Transport,Uber trip to Zurich,"Zurich, Switzerland",POS,****1115,clean,"4,610.23 USD"
+9,Dd9721084,,2025-05-16,,-375.59,GBP,GBP,Online,Starbucks,Dining,Starbucks purchase,"Paris, France",POS,****6736,clean,"-375,59"
+9,b7fde443-535d-4d03-900c-15e1e6513e33,,2023-11-15,,2846.44,GBP,GBP,Transfer,Zara,Clothing,Uber trip to London,"London, UK",ATM,****7471,clean,"2.846,44"
+9,,,2024-02-20,,2285.55,JPY,JPY,Salary,Uber,Travel,Uber purchase,"Berlin, Germany",Online,****4297,clean,"2.285,55"
+9,3e14f375-a95a-4ecd-aa6f-81bcffbd5a98,2025-03-27,2025-03-27,,-1788.95,USD,CHF,Salary,Starbucks,Dining,Power fight low fear former nature.,"Zurich, Switzerland",POS,****3956,clean,"-1,788.95 USD"
+9,,,2025-05-03,2025-05-01,92.28,USD,CHF,Transfer,Lufthansa,Technology,Need really money.,"Paris, France",POS,****1100,clean,92.28 USD
+9,LW3178861,2025-05-21,2025-05-21,,228.96,USD,GBP,POS,,Shopping,Shoulder task fight analysis world.,"Zurich, Switzerland",POS,****5135,missing_merchant_name,228.96 USD
+9,,2023-12-22,2023-12-24,,4362.73,USD,CHF,Debit,Lufthansa,Clothing,Lufthansa purchase,"Zurich, Switzerland",POS,****2182,clean,"4,362.73 USD"
+9,,,2024-07-01,2024-06-30,4095.18,USD,GBP,Bill Payment,Shell,Clothing,Local their truth.,"Zurich, Switzerland",Online,****1778,clean,"4,095.18 USD"
+9,Ie9054988,2024-04-26,2024-04-26,,3821.68,USD,CHF,Debit,Uber,Dining,Uber trip to Zurich,"Zurich, Switzerland",POS,****1104,clean,"$3,821.68"
+9,,,2024-11-28,2024-11-25,1533.17,EUR,USD,Salary,Zara,Clothing,ATM 62140,,ATM,****3384,clean,"€1,533.17"
+9,a800a66e-ce37-4d10-b5ca-e8d18c42b5b7,,2023-11-08,2023-11-05,-1947.0,USD,CHF,Debit,Shell,Dining,ATM 53732,"Berlin, Germany",ATM,****6918,clean,"$-1,947.00"
+9,oV2969221,2024-01-29,2024-02-01,,1710.45,EUR,EUR,Transfer,,Shopping,Transfer at App e,"Berlin, Germany",ATM,****6832,missing_merchant_name,"€1,710.45"
+9,,2024-03-08,2024-03-11,,1499.2,USD,CHF,Transfer,Zara,Technology,Zara purchase,"New York, USA",POS,****3443,clean,"1,499.20 USD"
+9,720af494-c2da-4772-aa97-84536a0be5b4,2025-04-06,2025-04-07,,1795.37,USD,EUR,Credit,Lufthansa,Subscription,Lufthansa purchase,"Paris, France",POS,****3295,clean,"1,795.37 USD"
+9,,,2024-10-23,2024-10-22,3839.12,EUR,CHF,Debit,Lufthansa,Travel,Score central but red lose toward.,"New York, USA",ATM,****9054,clean,"€3,839.12"
+9,bC7703326,2024-02-17,2024-02-19,,4482.32,USD,EUR,Bill Payment,Starbucks,Shopping,Bill Payment at Starbucks,"Paris, France",Online,****4859,clean,"$4,482.32"
+9,,2023-09-08,2023-09-10,,-932.58,USD,USD,ATM,Apple,Transport,ATM at Apple,"Paris, France",Online,****8827,clean,"-932,58"
+9,,2025-01-03,2025-01-05,,4375.47,USD,CHF,Online,H&M,Technology,Uber trip to New York,"New York, USA",ATM,****3136,clean,"$4,375.47"
+9,38270681-7290-4c1c-aa69-60ac684e6dff,,2024-09-16,,4836.68,EUR,EUR,Salary,Starbucks,Fuel,Starbucks purchase,"London, UK",ATM,****4555,clean,"€4,836.68"
+9,,2024-12-28,2024-12-31,,2779.92,CHF,GBP,Salary,Shell,Dining,Online 27566,"New York, USA",Online,****3610,clean,2779.92 CHF
+9,1921f081-366d-4439-b16c-a7b689faef8e,,2023-12-04,2023-12-02,-1387.34,EUR,EUR,POS,Starbucks,Shopping,ATM 78671,"Berlin, Germany",ATM,****2331,clean,"€-1,387.34"
+9,,,2024-02-24,2024-02-22,-1825.95,USD,GBP,Bill Payment,Amazon,Transport,ATM 20955,"Zurich, Switzerland",ATM,****5038,clean,"$-1,825.95"
+9,Se4787967,2023-07-28,2023-07-31,,-866.97,CHF,USD,Debit,H&M,Entertainment,Debit at H&MX,"New York, USA",POS,****4057,clean,-866.97 CHF
+9,45d6fa2c-bdb0-428f-8d15-f0c88852b8ba,,2025-01-05,,-410.58,CHF,GBP,POS,Starbucks,Travel,Uber trip to New York,"New York, USA",Online,****3911,clean,-410.58 CHF
+9,0cc1813e-5c65-4142-86c2-936af1610a93,,2025-05-23,2025-05-22,2945.51,CHF,CHF,Debit,Amazon,Clothing,Imagine enter control center.,"Berlin, Germany",POS,****8813,clean,"2.945,51"
+9,,2023-07-22,2023-07-22,,2124.98,CHF,CHF,Transfer,McDonald's,Travel,Online 48885,"Paris, France",Online,****4679,clean,"2.124,98"
+9,db5016668,,2023-11-28,2023-11-26,3233.01,USD,EUR,Online,Uber,Entertainment,Uber trip to Berlin,"Berlin, Germany",Online,****2222,clean,"3,233.01 USD"
+9,,,2025-03-06,,3685.14,USD,USD,ATM,McDonald's,Dining,ATM at McDonald's,"Berlin, Germany",POS,****9646,clean,"$3,685.14"
+9,7fa494eb-fa97-4e8f-b77c-875b8ee28415,2023-08-30,2023-09-02,,2555.25,CHF,CHF,Bill Payment,Amazon,Dining,Uber trip to Zurich,"Zurich, Switzerland",ATM,****8297,clean,2555.25 CHF
+9,6111076a-a812-493d-8a24-0d10062177dc,2024-03-31,2024-04-02,,3279.71,USD,EUR,Transfer,Amazon,Fuel,Amazon purchase,"London, UK",ATM,****2488,clean,"3,279.71 USD"
+9,,,2023-08-09,2023-08-09,522.7,USD,EUR,Debit,,Clothing,Site democratic miss forward financial.,"Berlin, Germany",POS,****2696,missing_merchant_name,$522.70
+9,lf6190229,2023-08-19,2023-08-19,,719.98,EUR,GBP,Debit,Shell,Dining,ATM 60309,"Berlin, Germany",ATM,****1132,clean,€719.98
+9,,2023-11-24,2023-11-24,,2189.27,USD,USD,Salary,H&M,Subscription,H&M@ purchase,,POS,****8712,clean,"2.189,27"
+9,,2025-06-17,2025-06-19,,4593.75,EUR,GBP,Debit,Lufthansa,Clothing,Uber trip to Berlin,"Berlin, Germany",POS,****7753,clean,"€4,593.75"
+9,TQ0971060,,2024-08-17,,3857.33,CHF,USD,Bill Payment,Netflix,Technology,POS 80193,"Paris, France",POS,****4721,clean,3857.33 CHF
+9,xG5270358,,2024-09-09,,1435.05,USD,EUR,POS,Starbucks,Entertainment,Financial low tell look her head.,"Paris, France",POS,****2379,clean,"$1,435.05"
+9,7bc26409-f117-4ce3-96b9-c6b30b000fec,2024-07-24,2024-07-24,,192.1,USD,CHF,Bill Payment,Uber,Entertainment,Uber purchase,"Zurich, Switzerland",ATM,****1827,clean,$192.10
+9,,2024-02-02,2024-02-03,,2617.93,CHF,CHF,POS,Uber,Entertainment,Uber trip to Zurich,"Zurich, Switzerland",POS,****9773,clean,2617.93 CHF
+9,,,2024-09-11,2024-09-08,-616.81,CHF,JPY,Salary,Netflix,Dining,Netflix purchase,"Berlin, Germany",ATM,****4935,clean,-616.81 CHF
+9,,2024-03-04,2024-03-05,,-753.0,EUR,USD,ATM,Zara,Travel,ATM at Zara,,ATM,****2923,clean,€-753.00
+9,ti2653486,2023-08-15,2023-08-16,,-705.5,CHF,EUR,ATM,H&M,Clothing,H&M purchase,"Zurich, Switzerland",ATM,****3660,clean,-705.50 CHF
+9,aJ7275784,,2025-04-09,,-14.38,CHF,EUR,Debit,Lufthansa,Subscription,Uber trip to Paris,"Paris, France",Online,****6694,clean,-14.38 CHF
+9,,,2024-01-06,2024-01-04,-1478.98,EUR,CHF,Online,Starbucks,Technology,Online at Starbucks,"New York, USA",ATM,****1398,clean,"€-1,478.98"
+9,,2025-03-16,2025-03-16,,-1196.58,CHF,JPY,Transfer,Shell,Technology,Uber trip to Berlin,"Berlin, Germany",POS,****9638,clean,-1196.58 CHF
+9,tt5756982,,2024-10-27,2024-10-27,997.78,USD,CHF,Debit,Uber,Subscription,Online 54566,"London, UK",Online,****2069,clean,$997.78
+9,,,2024-09-29,2024-09-28,-408.5,USD,GBP,POS,Starbucks,Shopping,POS at Starbucks,"Paris, France",Online,****8898,clean,$-408.50
+9,,2023-11-21,2023-11-22,,1589.1,USD,CHF,POS,Amazon,Clothing,Online 66612,"Berlin, Germany",Online,****5637,clean,"1,589.10 USD"
+9,,,2025-04-21,,3790.81,GBP,GBP,Salary,Zara,Technology,POS 23317,"New York, USA",POS,****3649,clean,"3.790,81"
+9,,2023-08-15,2023-08-16,,3276.55,EUR,EUR,Debit,H&M,Clothing,Wife number avoid consumer themselves center service turn.,"Paris, France",POS,****9860,clean,"3.276,55"
+9,,2023-10-06,2023-10-07,,2620.65,GBP,GBP,Transfer,Amazon,Clothing,Uber trip to New York,"New York, USA",Online,****2190,clean,"2.620,65"
+9,tS5935181,,2023-12-21,2023-12-18,3190.89,EUR,GBP,Salary,Zara,Transport,Salary at Zara,"New York, USA",ATM,****6042,clean,"€3,190.89"
+9,2f25b434-8677-4abd-a1e9-817b5c58a416,2024-03-18,2024-03-18,,-1068.78,EUR,GBP,Bill Payment,Starbucks,Entertainment,ATM 65630,"Paris, France",ATM,****3021,clean,"€-1,068.78"
+9,XX7611703,,2024-01-20,,-455.67,USD,EUR,Online,Shell,Transport,POS 39579,,POS,****9166,clean,$-455.67
+9,81ec9d10-a05d-4bc4-a417-04ebe0016a0f,,2024-10-24,,-1002.55,USD,GBP,Debit,Starbucks,Subscription,Goal ball meet environment effect today.,"Zurich, Switzerland",ATM,****6052,clean,"-1,002.55 USD"
+9,c1757126-0c4a-439e-a971-dab499e663ca,2023-08-13,2023-08-14,,890.87,EUR,USD,Bill Payment,Lufthansa,Shopping,Follow maybe drug kind.,"Zurich, Switzerland",ATM,****4211,clean,€890.87
+9,,2023-11-24,2023-11-25,,4801.25,USD,JPY,Bill Payment,Netflix,Clothing,Netflix purchase,"Berlin, Germany",ATM,****8629,clean,"4,801.25 USD"
+9,,2024-01-11,2024-01-11,,4295.25,USD,USD,POS,Zara,Shopping,POS 11717,,POS,****2888,clean,"4,295.25 USD"
+9,eP8616298,,2024-08-14,,3119.49,CHF,CHF,ATM,Starbucks,Transport,Starbucks purchase,"New York, USA",ATM,****1675,clean,"3.119,49"
+9,Yu6749059,,2024-11-05,,1096.31,EUR,EUR,Transfer,Lufthansa,Clothing,Transfer at Lufthansa,"Paris, France",Online,****4411,clean,"1.096,31"
+9,,,2024-01-07,,-1729.94,EUR,USD,Bill Payment,Apple,Fuel,Bill Payment at Apple,"Zurich, Switzerland",POS,****9069,clean,"€-1,729.94"
+9,Lu7960972,,2025-03-13,,-1869.48,GBP,GBP,Transfer,Uber,Shopping,Uber trip to Zurich,"Zurich, Switzerland",ATM,****3397,clean,"-1.869,48"
+9,Vs9244371,2024-03-18,2024-03-19,,1135.49,GBP,GBP,Debit,Starbucks,Fuel,ATM 64100,"London, UK",ATM,****4084,clean,"1.135,49"
+9,,,2023-07-30,2023-07-27,-1190.38,USD,CHF,Online,H&M,Dining,Uber trip to Zurich,"Zurich, Switzerland",Online,****6227,clean,"-1,190.38 USD"
+9,,,2024-08-16,2024-08-14,1871.38,USD,USD,Online,Apple,Technology,Uber trip to Zurich,"Zurich, Switzerland",POS,****2159,clean,"1.871,38"
+9,,2023-10-06,2023-10-07,,2604.68,EUR,EUR,POS,Netflix,Entertainment,Several state modern expert Congress theory anyone.,"Paris, France",ATM,****3709,clean,"€2,604.68"
+9,,2024-06-23,2024-06-26,,-1411.15,USD,GBP,Credit,McDonald's,,Uber trip to London,"London, UK",POS,****9263,clean,"$-1,411.15"
+9,QU9043196,,2023-11-22,2023-11-21,2433.26,EUR,EUR,Credit,Netflix,,Netflix purchase,"New York, USA",Online,****3294,clean,"€2,433.26"
+9,b46e6ada-4b1f-4dca-80da-a34d8a6b44e8,,2025-07-14,,1236.55,CHF,EUR,ATM,Uber,Fuel,ATM at Uber,"Paris, France",Online,****3268,clean,1236.55 CHF
+9,,,2024-04-16,2024-04-14,945.88,GBP,GBP,Bill Payment,H&M,Technology,POS 64644,,POS,****1447,clean,"945,88"
+9,ly1359061,2023-11-09,2023-11-10,,977.23,USD,JPY,Salary,H&M,,Uber trip to Zurich,,Online,****6348,clean,977.23 USD
+9,,,2024-02-14,2024-02-13,1360.15,USD,EUR,Debit,Shell,,Shell purchase,"Berlin, Germany",Online,****2315,clean,"1,360.15 USD"
+9,892c63af-4d2e-4caa-83ba-73c075b5d7e2,2025-01-02,2025-01-04,,-565.33,CHF,CHF,Credit,Lufthansa,Travel,Lufthansa purchase,"Zurich, Switzerland",ATM,****8007,clean,"-565,33"
+9,NO6084223,2025-04-30,2025-04-30,,945.73,USD,CHF,Salary,McDonald's,Travel,Prevent attorney section site law nearly.,"Paris, France",ATM,****2250,clean,$945.73
+9,,2024-04-08,2024-04-11,,777.48,USD,JPY,Credit,Zara,Shopping,POS 84923,"Berlin, Germany",POS,****6718,clean,777.48 USD
+9,,,2023-08-15,2023-08-12,3044.93,EUR,EUR,Salary,Starbucks,Shopping,Major middle fly ever fall form avoid.,"Paris, France",ATM,****7799,clean,"€3,044.93"
+9,a84efeeb-720b-4bf2-8deb-676d919c913c,2025-03-29,2025-03-30,,-1888.31,USD,USD,Credit,Uber,,Credit at Uber,"Paris, France",POS,****1183,clean,"-1.888,31"
+9,0c40ddf6-2fec-43e5-b2d8-f538ae836973,,2025-04-19,2025-04-19,-1028.97,CHF,CHF,Salary,Netflix,Transport,Salary at Netflix,"Berlin, Germany",POS,****9531,clean,-1028.97 CHF
+10,EX0119548,,2025-02-05,2025-02-04,523.78,CHF,EUR,Debit,H&M,Subscription,Uber trip to Berlin,"Berlin, Germany",Online,****3779,clean,523.78 CHF
+10,,,2023-07-10,,102.44,GBP,GBP,Debit,McDonald's,Shopping,Debit at McDonald's,"Paris, France",ATM,****4940,clean,"102,44"
+10,Od0043902,2023-06-30,2023-07-02,,-765.03,USD,USD,POS,McDonald's,,Uber trip to New York,"New York, USA",Online,****4063,clean,-765.03 USD
+10,Fl9302420,,2025-03-07,,-62.63,USD,USD,Bill Payment,H&M,Technology,H&M purchase,"Zurich, Switzerland",Online,****8803,clean,$-62.63
+10,un7723094,,2025-01-24,,-157.84,USD,CHF,Bill Payment,Uber,Transport,Uber purchase,,ATM,****4335,clean,-157.84 USD
+10,,2024-04-26,2024-04-28,,1878.78,CHF,CHF,Online,H&M,Clothing,Uber trip to London,"London, UK",POS,****2044,clean,"1.878,78"
+10,,2024-06-03,2024-06-04,,2980.78,USD,CHF,Online,Uber,Subscription,Uber trip to New York,"New York, USA",ATM,****9356,clean,"2,980.78 USD"
+10,,,2023-08-03,,2359.96,EUR,GBP,Debit,Zara,Subscription,Reach sign somebody visit interesting focus.,"Paris, France",Online,****1029,clean,"€2,359.96"
+10,,,2024-11-28,2024-11-27,2403.3,GBP,GBP,ATM,Uber,Transport,ATM 93119,"New York, USA",ATM,****7364,clean,"2.403,30"
+10,5bf4b779-2609-4698-b347-67884ea7b994,,2024-10-10,2024-10-09,2405.56,USD,EUR,Debit,Apple,Transport,For send behavior prepare deep teach.,"New York, USA",POS,****6431,clean,"$2,405.56"
+10,xn3707001,2024-03-08,2024-03-08,,-256.14,CHF,USD,Debit,Starbucks,Clothing,Starbucks purchase,"New York, USA",ATM,****4492,clean,-256.14 CHF
+10,7ac6b797-9892-4804-ae6a-1b97c90c0578,2025-06-15,2025-06-18,,622.72,USD,EUR,Transfer,Lufthansa,Shopping,Online 45883,"London, UK",Online,****4440,clean,622.72 USD
+10,d1273a07-89f5-4dd4-8a78-c31510a1c690,,2023-08-20,2023-08-18,3526.16,CHF,CHF,ATM,McDonald's,Entertainment,McDonald's purchase,"Zurich, Switzerland",ATM,****3204,clean,3526.16 CHF
+10,,,2025-06-19,,2937.86,GBP,GBP,Online,Amazon,Technology,Online at Amazon,"London, UK",Online,****3448,clean,"2.937,86"
+10,,,2024-04-13,2024-04-10,4071.64,USD,GBP,Transfer,Apple,Dining,Apple purchase,"London, UK",Online,****8119,clean,"4,071.64 USD"
+10,80d0f835-fe7e-48f0-9fc6-55081f34dcd9,,2025-03-04,,-1981.73,USD,CHF,Debit,Uber,Entertainment,Uber trip to Berlin,"Berlin, Germany",Online,****5708,clean,"$-1,981.73"
+10,,2023-07-08,2023-07-10,,2259.65,USD,USD,Transfer,,Fuel,Online 13416,"Paris, France",Online,****6590,missing_merchant_name,"2,259.65 USD"
+10,hS4590168,,2025-03-22,2025-03-22,4113.98,CHF,EUR,Salary,Uber,Technology,Uber purchase,"New York, USA",ATM,****9062,clean,4113.98 CHF
+10,1bfd7d4b-645a-46ea-b7b1-6336eb96b352,,2024-08-25,,1593.8,USD,CHF,Salary,Apple,Subscription,ATM 90588,"London, UK",ATM,****8669,clean,"1,593.80 USD"
+10,,,2024-05-21,2024-05-21,-1410.34,CHF,USD,ATM,Apple,Entertainment,ATM 61889,"Zurich, Switzerland",ATM,****9265,clean,-1410.34 CHF
+10,gx8703544,,2024-06-13,2024-06-12,1871.5,EUR,EUR,Salary,H&M,Entertainment,H&M purchase,"Zurich, Switzerland",POS,****5419,clean,"€1,871.50"
+10,Rb3212891,2024-04-17,2024-04-20,,1524.12,EUR,EUR,Online,McDonald's,Transport,McDonald's purchase,"London, UK",POS,****6843,clean,"1.524,12"
+10,CA6611370,,2025-03-30,,560.88,USD,USD,Bill Payment,Lufthansa,,ATM 84444,"London, UK",ATM,****6189,clean,$560.88
+10,,2023-10-10,2023-10-11,,-664.03,USD,EUR,Salary,Starbucks,Dining,Salary at Starbucks,"New York, USA",ATM,****6775,clean,$-664.03
+10,lL3530129,,2024-01-04,2024-01-04,1528.37,USD,CHF,POS,McDonald's,Fuel,POS at McDnald's,"New York, USA",ATM,****2023,clean,"1,528.37 USD"
+10,,2023-09-16,2023-09-16,,155.23,CHF,GBP,Credit,McDonald's,,McD nald's purchase,"Berlin, Germany",POS,****9474,clean,155.23 CHF
+10,,2024-11-30,2024-11-30,,4557.34,GBP,GBP,Debit,Apple,Technology,Apple purchase,"New York, USA",Online,****5197,clean,"4.557,34"
+10,8185dafd-0278-4ba0-ad7e-6348e879db79,,2023-09-25,,1988.14,CHF,CHF,Debit,Netflix,Fuel,Netflix purchase,"Paris, France",Online,****1068,clean,1988.14 CHF
+10,,2025-06-04,2025-06-04,,578.96,USD,GBP,Debit,Netflix,Entertainment,Pull culture some there area.,"London, UK",ATM,****5711,clean,578.96 USD
+10,,,2024-12-03,,2382.96,CHF,CHF,Salary,Uber,Shopping,Uber trip to New York,"New York, USA",Online,****8420,clean,"2.382,96"
+10,,2025-02-21,2025-02-22,,4457.72,USD,EUR,POS,Lufthansa,Subscription,Lufhansa purchase,"London, UK",ATM,****7334,clean,"4,457.72 USD"
+10,55eea873-d1ef-4a9b-9183-116d8a88f1a2,2024-11-28,2024-11-30,,-1607.78,USD,GBP,Bill Payment,McDonald's,Transport,ATM 38984,"Berlin, Germany",ATM,****9962,clean,"$-1,607.78"
+10,,,2023-07-27,2023-07-26,2920.52,USD,CHF,Debit,Zara,Clothing,Uber trip to Zurich,"Zurich, Switzerland",ATM,****8514,clean,"$2,920.52"
+10,,2024-10-15,2024-10-18,,-973.72,CHF,CHF,Credit,Zara,Travel,Credit at Zar@,"New York, USA",ATM,****8617,clean,"-973,72"
+10,TZ1021933,,2023-08-31,2023-08-29,4749.13,USD,USD,Credit,Uber,Technology,Continue allow cold short reveal memory consumer.,"Berlin, Germany",Online,****9598,clean,"4,749.13 USD"
+10,8851225a-b523-4c47-8b6e-0918da8c000a,,2025-03-12,,1132.3,EUR,CHF,Transfer,Apple,Subscription,Uber trip to New York,"New York, USA",POS,****2081,clean,"€1,132.30"
+10,uA8325429,,2024-03-23,2024-03-22,4455.01,CHF,USD,Bill Payment,Apple,Dining,Apple purchase,"New York, USA",ATM,****1758,clean,4455.01 CHF
+10,,,2025-04-12,,1372.75,USD,EUR,POS,McDonald's,,McDonald's purchase,"New York, USA",POS,****2994,clean,"$1,372.75"
+10,c656e3eb-954f-485a-9ff0-a192a3801e98,,2024-08-15,,-1257.36,USD,USD,Online,,Subscription,Win each boy federal.,"London, UK",Online,****4030,missing_merchant_name,"-1.257,36"
+10,,2023-12-23,2023-12-25,,1425.09,USD,CHF,Transfer,Netflix,Transport,Transfer at Netflix,"Paris, France",ATM,****6191,clean,"$1,425.09"
+10,,2024-10-06,2024-10-06,,714.85,USD,GBP,Bill Payment,McDonald's,Transport,One its former speak past event give service.,"London, UK",POS,****1700,clean,714.85 USD
+10,,,2025-04-27,,-806.52,EUR,GBP,Credit,H&M,Shopping,Interview any fall idea.,"Berlin, Germany",ATM,****2161,clean,€-806.52
+10,,2025-06-04,2025-06-06,,-1991.64,CHF,CHF,Transfer,Apple,Technology,ATM 35816,"New York, USA",ATM,****8756,clean,-1991.64 CHF
+10,wt1993769,,2025-02-25,2025-02-22,-22.95,CHF,CHF,Transfer,McDonald's,Transport,McDonald's purchase,"New York, USA",POS,****2855,clean,"-22,95"
+10,Dl0741759,2024-12-08,2024-12-10,,540.96,USD,CHF,Online,Apple,Fuel,Online at Apple,,Online,****1899,clean,$540.96
+10,,,2024-06-02,,687.78,USD,EUR,Online,Shell,Subscription,POS 99258,"Berlin, Germany",POS,****7699,clean,687.78 USD
+10,,,2024-08-29,,1114.65,CHF,CHF,ATM,Uber,Transport,ATM at Uber,"New York, USA",Online,****3147,clean,"1.114,65"
+10,,2023-07-23,2023-07-24,,2274.07,GBP,GBP,POS,Lufthansa,,POS at Lufthansa,"Paris, France",ATM,****3164,clean,"2.274,07"
+10,,,2024-12-04,2024-12-03,-831.84,USD,JPY,Bill Payment,Netflix,Technology,Netflix purchase,,ATM,****2443,clean,-831.84 USD
+10,,2023-11-05,2023-11-08,,-1243.54,CHF,GBP,Online,Netflix,Dining,Uber trip to Berlin,"Berlin, Germany",POS,****2378,clean,-1243.54 CHF
+10,,2024-11-30,2024-12-03,,-820.09,USD,EUR,Online,Amazon,Clothing,Online at Amazon,"Berlin, Germany",ATM,****3922,clean,$-820.09
+10,,2024-10-26,2024-10-26,,-1001.77,CHF,CHF,Debit,Zara,Travel,Computer example drop know indeed.,,Online,****2199,clean,-1001.77 CHF
+10,fcd9dc69-0a9c-4c5e-abad-70697e247266,2024-06-14,2024-06-14,,1622.06,USD,CHF,Salary,Netflix,Fuel,Uber trip to Paris,"Paris, France",Online,****4039,clean,"1,622.06 USD"
+10,,2024-07-06,2024-07-07,,4179.44,CHF,CHF,Bill Payment,H&M,Technology,Bill Payment at H&M,"New York, USA",ATM,****7557,clean,"4.179,44"
+10,,2024-01-09,2024-01-11,,4499.16,EUR,GBP,ATM,Uber,Fuel,Online 98866,"Zurich, Switzerland",Online,****4188,clean,"€4,499.16"
+10,,,2024-06-15,2024-06-13,-1953.78,CHF,USD,Credit,Apple,Entertainment,Uber trip to Paris,,ATM,****2468,clean,-1953.78 CHF
+10,,,2023-12-05,,1622.01,CHF,JPY,Debit,Netflix,Transport,Along seat finally participant long history say.,"New York, USA",ATM,****5365,clean,1622.01 CHF
+10,,2024-05-07,2024-05-09,,1745.47,EUR,EUR,Transfer,Shell,Shopping,Online 81750,"New York, USA",Online,****7400,clean,"€1,745.47"
+10,Qm2351534,2025-04-04,2025-04-06,,-521.74,USD,CHF,Bill Payment,McDonald's,Entertainment,President account common often same.,"Zurich, Switzerland",Online,****8202,clean,-521.74 USD
+10,ES8366594,2023-06-23,2023-06-25,,2534.15,USD,CHF,ATM,Shell,Transport,Cold measure issue as point.,"New York, USA",Online,****4986,clean,"$2,534.15"
+10,,2024-12-30,2024-12-30,,-907.72,GBP,GBP,ATM,Apple,Transport,Across together avoid hotel resource plan.,"Berlin, Germany",ATM,****2984,clean,"-907,72"
+10,,2024-06-30,2024-07-01,,-1666.57,USD,USD,Online,Amazon,Shopping,Uber trip to Paris,"Paris, France",ATM,****7667,clean,"$-1,666.57"
+10,vX7500139,,2024-12-13,2024-12-11,-564.01,USD,USD,Transfer,Uber,Technology,Uber purchase,,ATM,****6152,clean,$-564.01
+10,9801df79-911c-453e-baf6-e2f5b6fb4ffa,,2025-05-31,,-1341.21,EUR,GBP,Debit,Zara,Entertainment,Uber trip to London,"London, UK",POS,****7801,clean,"€-1,341.21"
+10,ER6256422,,2023-10-09,2023-10-09,4689.85,EUR,EUR,Online,Uber,Transport,Uber trip to Paris,"Paris, France",Online,****7224,clean,"4.689,85"
+10,cbe945a6-9ed9-4af1-b552-f3ff7691b74e,2024-10-01,2024-10-04,,1506.95,USD,USD,Bill Payment,H&M,Transport,ATM 44041,"Zurich, Switzerland",ATM,****7953,clean,"1,506.95 USD"
+10,2634b72a-e6e7-4958-9426-ab0eb421e71e,,2024-11-08,2024-11-05,3861.55,CHF,GBP,Bill Payment,Shell,Transport,Shel purchase,"New York, USA",POS,****5174,clean,3861.55 CHF
+10,,2024-10-24,2024-10-25,,4052.79,CHF,USD,POS,McDonald's,Fuel,Much main wait partner bring.,"Zurich, Switzerland",ATM,****4605,clean,4052.79 CHF
+10,,2024-07-05,2024-07-05,,-349.15,EUR,GBP,Salary,Netflix,,Serious family dream produce.,"London, UK",ATM,****5700,clean,€-349.15
+10,Dq8958490,2023-12-17,2023-12-18,,3510.82,USD,USD,Transfer,Zara,Dining,Whatever senior participant lawyer newspaper nice.,"New York, USA",POS,****6313,clean,"3.510,82"
+10,,,2025-07-13,2025-07-10,1225.83,CHF,USD,POS,Netflix,Technology,POS 64358,"London, UK",POS,****6824,clean,1225.83 CHF
+10,,2023-12-22,2023-12-25,,1536.36,EUR,EUR,Debit,Apple,Fuel,Apple purchase,"Berlin, Germany",Online,****8597,clean,"€1,536.36"
+10,ki8454257,2025-06-22,2025-06-25,,1284.19,EUR,GBP,Online,Zara,Technology,ATM 77310,"London, UK",ATM,****7901,clean,"€1,284.19"
+10,,,2023-08-17,2023-08-14,-1450.12,USD,EUR,ATM,Zara,,ATM at Zara,"Berlin, Germany",POS,****2134,clean,"-1,450.12 USD"
+10,,,2025-05-09,2025-05-09,1052.47,USD,EUR,Debit,McDonald's,Shopping,Online 50821,"Zurich, Switzerland",Online,****3773,clean,"$1,052.47"
+10,,2024-02-13,2024-02-15,,-1787.81,EUR,GBP,Salary,Uber,Subscription,Uber trip to London,"London, UK",ATM,****9931,clean,"€-1,787.81"
+10,ecfe56bd-3d6d-4911-bbbf-7efafa002bbd,2024-03-22,2024-03-25,,-1579.58,USD,USD,Online,McDonald's,Subscription,Uber trip to Berlin,"Berlin, Germany",ATM,****6162,clean,"$-1,579.58"
+10,cbdeafd5-f9b7-42c7-92b5-0fe8229dd593,2024-08-08,2024-08-10,,-1265.22,CHF,CHF,POS,Shell,Shopping,POS 61297,"New York, USA",POS,****4903,clean,-1265.22 CHF
+10,,,2024-10-17,2024-10-15,3218.48,EUR,GBP,POS,McDonald's,Dining,POS at McDonald's,"Paris, France",POS,****1838,clean,"€3,218.48"
+10,qy3990601,2024-03-22,2024-03-23,,-53.48,USD,EUR,POS,,Transport,Collection design sea best tend.,"Berlin, Germany",Online,****4562,missing_merchant_name,$-53.48
+10,PH5117528,2025-05-01,2025-05-01,,3341.15,USD,USD,Salary,Starbucks,Clothing,Online 95738,,Online,****2855,clean,"3.341,15"
+10,,,2025-04-08,2025-04-06,-1388.39,USD,USD,POS,Uber,Shopping,Uber trip to New York,"New York, USA",POS,****4915,clean,"-1.388,39"
+10,,,2024-06-11,2024-06-08,-1040.4,USD,JPY,ATM,H&M,Transport,ATM at H&M,"London, UK",POS,****4957,clean,"-1,040.40 USD"
