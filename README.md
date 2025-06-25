@@ -41,10 +41,13 @@ prior to calculating the anaylsis we convert everything to USD so that we have c
 Task #2.3
 
 1) If I had to build it for production so I will use more robust 
- 1.1) fx library to convert amount at the time of the transaction 
- 1.2) use dateutil for better timezone handling
- 1.3) implement better monitoring 
- 1.4) use pytest and write some tests to this scripts
- 1.5) Designa scalable architecture using Kafka. Potentially get trasnactions streams and process in real time
+ 1.1) Use FX library to convert amount at the time of the transaction. 
+ 1.2) Use dateutil for better timezone handling.
+ 1.3) Implement better monitoring.
+ 1.4) Use pytest and write tests.
+ 1.5) Designa scalable architecture using Kafka. Potentially use Kafka streams and process transaction in real time.
  1.6) Upload the data to a structured database
+ 1.7) Build a UI to allow support staff to fix exceptions
+ 1.8) Use LLM to fix transactions exceptions
+ 1.9) User Docker and Kubernetes to enable scaling
   
